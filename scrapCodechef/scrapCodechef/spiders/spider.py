@@ -22,35 +22,21 @@ class scrapCodechefSpider(scrapy.Spider) :
 		time.sleep(30)
 		result = browser.page_source
 		for sel in response.xpath("//*[@id='primary-content']/div/div/div[2]/table/tbody/tr") :
-			# 	continue
-			f_out=open("/home/lethal/PYTHON/PythonEnv/venv/.git/scrapCodechef/scrapCodechef/Data/scrapCodechef.csv","a+")
+			f_out=open("/home/lethal/PYTHON/PythonEnv/venv/.git/ProgrammingSpiders/scrapCodechef/scrapCodechef/Data/scrapCodechef.csv","a+")
 			item = ScrapcodechefItem()
 			item['Platform'] = "Codechef"
 			if(len(str(sel.xpath('td[1]/div[1]/a/b/text()').extract())) > 2) :
-				f_out.write("Name: ")
-				f_out.write(str(sel.xpath('td[1]/div[1]/a/b/text()').extract()[0]))
-				f_out.write(", ")
-
-				f_out.write("Slug: ")
-				f_out.write(str(sel.xpath('td[2]/a/text()').extract()[0]))
-				f_out.write(", ")
-
-				f_out.write("Submissions: ")
-				f_out.write(str(sel.xpath('td[3]/div/text()').extract()[0]))
-				f_out.write(", ")
-
-				f_out.write("Accuracy: ")
-				f_out.write(str(sel.xpath('td[4]/a/text()').extract()[0]))
-				f_out.write(", ")
-
-				f_out.write("questionURL: ")
 				item['questionURL'] = "https://www.codechef.com" + str(sel.xpath('td[1]/div/a/@href').extract()[0])
 				request = scrapy.Request(item['questionURL'], callback = self.parseQuestionDetails)
-				f_out.write(str(item['questionURL']))
-				f_out.write(", ")
-
-				f_out.write("Platform: ")
-				f_out.write(str(item['Platform']))
+				questionDetailObject = {
+					"Name" : str(sel.xpath('td[1]/div[1]/a/b/text()').extract()[0]),
+					"Slug" : str(sel.xpath('td[2]/a/text()').extract()[0]),
+					"Submissions" : str(sel.xpath('td[3]/div/text()').extract()[0]),
+					"Accuracy" : str(sel.xpath('td[4]/a/text()').extract()[0]),
+					"questionURL" : str(item['questionURL']),
+					"Platform" : str(item['Platform'])
+				}
+				f_out.write(str(questionDetailObject))
 				f_out.write("\n")
 			f_out.close()
 		browser.quit()
