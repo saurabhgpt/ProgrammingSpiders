@@ -3,6 +3,7 @@ from scrapCodechef.items import ScrapcodechefItem
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
+import csv
 
 class scrapCodechefSpider(scrapy.Spider) :
 	name = "spider"
@@ -19,27 +20,28 @@ class scrapCodechefSpider(scrapy.Spider) :
 	def parse(self, response) :
 		browser = webdriver.Firefox()
 		browser.get(response.url)
-		time.sleep(30)
-		result = browser.page_source
-		for sel in response.xpath("//*[@id='primary-content']/div/div/div[2]/table/tbody/tr") :
-			f_out=open("/home/lethal/PYTHON/PythonEnv/venv/.git/ProgrammingSpiders/scrapCodechef/scrapCodechef/Data/scrapCodechef.csv","a+")
-			item = ScrapcodechefItem()
-			item['Platform'] = "Codechef"
-			if(len(str(sel.xpath('td[1]/div[1]/a/b/text()').extract())) > 2) :
-				item['questionURL'] = "https://www.codechef.com" + str(sel.xpath('td[1]/div/a/@href').extract()[0])
-				request = scrapy.Request(item['questionURL'], callback = self.parseQuestionDetails)
-				questionDetailObject = {
-					"Name" : str(sel.xpath('td[1]/div[1]/a/b/text()').extract()[0]),
-					"Slug" : str(sel.xpath('td[2]/a/text()').extract()[0]),
-					"Submissions" : str(sel.xpath('td[3]/div/text()').extract()[0]),
-					"Accuracy" : str(sel.xpath('td[4]/a/text()').extract()[0]),
-					"questionURL" : str(item['questionURL']),
-					"Platform" : str(item['Platform'])
-				}
-				f_out.write(str(questionDetailObject))
-				f_out.write("\n")
-			f_out.close()
+		time.sleep(15)
+		platform = "Codechef"
+		with open("/home/lethal/PYTHON/PythonEnv/venv/.git/ProgrammingSpiders/scrapCodechef/scrapCodechef/Data/scrapCodechef.csv","ab+") as f:
+			writer = csv.writer(f)
+			headers = ["Name", "Slug", "Submissions", "Accuracy", "QuestionURL", "Platform"]
+			writer.writerow(headers)
+			for sel in response.xpath("//*[@id='primary-content']/div/div/div[2]/table/tbody/tr") :
+				if(len(str(sel.xpath('td[1]/div[1]/a/b/text()').extract())) > 2) :
+					name = sel.xpath('td[1]/div[1]/a/b/text()').extract()[0]
+					slug = sel.xpath('td[2]/a/text()').extract()[0]
+					submissions = sel.xpath('td[3]/div/text()').extract()[0]
+					accuracy = sel.xpath('td[4]/a/text()').extract()[0]
+					questionURL = "https://www.codechef.com" + str(sel.xpath('td[1]/div/a/@href').extract()[0])
+					name = name.encode('utf8')
+					slug = slug.encode('utf8')
+					submissions = submissions.encode('utf8')
+					accuracy = accuracy.encode('utf8')
+					questionURL = questionURL.encode('utf8')
+					questionDetailObject = [name, slug, submissions, accuracy, questionURL, platform]
+					writer.writerow(questionDetailObject.encode('utf8') if type(questionDetailObject) is unicode else questionDetailObject)
 		browser.quit()
+		f.close()
 
 	def parseQuestionDetails(self, item, response) :
 		# print "YEYYEY"

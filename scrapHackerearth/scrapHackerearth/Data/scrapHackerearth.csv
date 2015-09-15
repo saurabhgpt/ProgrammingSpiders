@@ -639,3 +639,644 @@ Beautiful Sequence,beautiful-sequence,...,                    ,https://www.hacke
 Bytelandian Gold Coins,bytelandian-gold-coins,...,                    ,https://www.hackerearth.com/problem/algorithm/bytelandian-gold-coins/,Hackerearth
 Lucky Number,lucky-number,...,                    ,https://www.hackerearth.com/problem/algorithm/lucky-number/,Hackerearth
 Small Factorials,small-factorials,...,                    ,https://www.hackerearth.com/problem/algorithm/small-factorials/,Hackerearth
+Name,Slug,Submissions,Tags,QuestionURL,Platform
+Absolute Difference,absolute-difference-2,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/absolute-difference-2/,Hackerearth
+Encoded Strings,encoded-strings-3,...,"                    Easy, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/encoded-strings-3/,Hackerearth
+All Vowels,all-vowels-2,...,                    ,https://www.hackerearth.com/problem/algorithm/all-vowels-2/,Hackerearth
+Fun at Cake Shop ,fun-at-cake-shop-pledge-easy-1,...,                    ,https://www.hackerearth.com/problem/algorithm/fun-at-cake-shop-pledge-easy-1/,Hackerearth
+In search of Samosa ,in-search-of-samosa-pledge-easy-3,...,                    ,https://www.hackerearth.com/problem/algorithm/in-search-of-samosa-pledge-easy-3/,Hackerearth
+Tournament,tournament-easy,...,                    ,https://www.hackerearth.com/problem/algorithm/tournament-easy/,Hackerearth
+Laptop ,laptop-easy,...,                    ,https://www.hackerearth.com/problem/algorithm/laptop-easy/,Hackerearth
+Paint Wall,paint-wall-easy,...,                    ,https://www.hackerearth.com/problem/algorithm/paint-wall-easy/,Hackerearth
+Unique Maximum Number ,unique-maximum-number-easy,...,                    ,https://www.hackerearth.com/problem/algorithm/unique-maximum-number-easy/,Hackerearth
+AP or Not ,ap-or-not-easy,...,                    ,https://www.hackerearth.com/problem/algorithm/ap-or-not-easy/,Hackerearth
+Find Pair,find-pair-easy,...,                    ,https://www.hackerearth.com/problem/algorithm/find-pair-easy/,Hackerearth
+War,warcakewalk,...,                    ,https://www.hackerearth.com/problem/algorithm/warcakewalk/,Hackerearth
+Final Destination,final-destination-cakewalk,...,                    ,https://www.hackerearth.com/problem/algorithm/final-destination-cakewalk/,Hackerearth
+Bob and String ,bob-and-string-easy,...,                    ,https://www.hackerearth.com/problem/algorithm/bob-and-string-easy/,Hackerearth
+Bob and Bombs,bob-and-bombs-cake-walk,...,                    ,https://www.hackerearth.com/problem/algorithm/bob-and-bombs-cake-walk/,Hackerearth
+Little Jhool and his addi...,little-jhool-and-his-addiction-2-4,...,"                    Greedy, Sorting, Easy-Medium",https://www.hackerearth.com/problem/algorithm/little-jhool-and-his-addiction-2-4/,Hackerearth
+The legend of Tanmay,the-legend-of-tanmay,...,"                    Easy-Medium, Ad-Hoc, Greedy",https://www.hackerearth.com/problem/algorithm/the-legend-of-tanmay/,Hackerearth
+Arjit and Apex,arjit-and-apex,...,"                    Easy-Medium, Greedy",https://www.hackerearth.com/problem/algorithm/arjit-and-apex/,Hackerearth
+Arjit and Printing Press,arjit-and-printing-press,...,"                    Greedy, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/arjit-and-printing-press/,Hackerearth
+Shil and Survival Game,shil-and-survival-game,...,                    ,https://www.hackerearth.com/problem/algorithm/shil-and-survival-game/,Hackerearth
+"Shil, Aditya and Utkarsh",shil-aditya-and-utkarsh,...,                    ,https://www.hackerearth.com/problem/algorithm/shil-aditya-and-utkarsh/,Hackerearth
+Shil and Beautiful Matrix,shil-and-beautiful-matrix,...,                    ,https://www.hackerearth.com/problem/algorithm/shil-and-beautiful-matrix/,Hackerearth
+Shil and hiking,shil-and-hiking,...,                    ,https://www.hackerearth.com/problem/algorithm/shil-and-hiking/,Hackerearth
+Shil and Crazy Operation,shil-and-crazy-operation,...,                    ,https://www.hackerearth.com/problem/algorithm/shil-and-crazy-operation/,Hackerearth
+3 types,3-types,...,                    ,https://www.hackerearth.com/problem/algorithm/3-types/,Hackerearth
+Quantitative coefficient,quantitative-coefficient,...,                    ,https://www.hackerearth.com/problem/algorithm/quantitative-coefficient/,Hackerearth
+Maximum Spanning Tree,maximum-spanning-tree,...,                    ,https://www.hackerearth.com/problem/algorithm/maximum-spanning-tree/,Hackerearth
+Check it,check-it,...,                    ,https://www.hackerearth.com/problem/algorithm/check-it/,Hackerearth
+Samu and her Birthday Party,samu-and-her-birthday-party-1,...,                    ,https://www.hackerearth.com/problem/algorithm/samu-and-her-birthday-party-1/,Hackerearth
+Palin Pairs,palin-pairs,...,                    ,https://www.hackerearth.com/problem/algorithm/palin-pairs/,Hackerearth
+Trace of a matrix,trace-of-a-matrix-36,...,                    ,https://www.hackerearth.com/problem/algorithm/trace-of-a-matrix-36/,Hackerearth
+Counter Strike,counter-strike-12,...,                    ,https://www.hackerearth.com/problem/algorithm/counter-strike-12/,Hackerearth
+Oz and his game-board,oz-and-his-game-board-1,...,                    ,https://www.hackerearth.com/problem/algorithm/oz-and-his-game-board-1/,Hackerearth
+Monk And IQ,monk-and-iq,...,                    ,https://www.hackerearth.com/problem/algorithm/monk-and-iq/,Hackerearth
+Monk And Champions League ,monk-and-champions-league,...,                    ,https://www.hackerearth.com/problem/algorithm/monk-and-champions-league/,Hackerearth
+Monk And Some Queries,monk-and-some-queries,...,                    ,https://www.hackerearth.com/problem/algorithm/monk-and-some-queries/,Hackerearth
+Monk and Multiplication,monk-and-multiplication,...,                    ,https://www.hackerearth.com/problem/algorithm/monk-and-multiplication/,Hackerearth
+Upgrade,upgrade,...,"                    Data Structures, Binary Search Tree, Heavy light decomposition, Hard",https://www.hackerearth.com/problem/algorithm/upgrade/,Hackerearth
+Communication Network,communication-network,...,"                    Dynamic Programming, Divide And Conquer, Hard",https://www.hackerearth.com/problem/algorithm/communication-network/,Hackerearth
+Something Genuine,something-genuine,...,"                    Data Structures, Segment Trees, Hard",https://www.hackerearth.com/problem/algorithm/something-genuine/,Hackerearth
+Sabotage,sabotage-1,...,"                    Disjoint Set, Greedy, Medium, Data Structures",https://www.hackerearth.com/problem/algorithm/sabotage-1/,Hackerearth
+The Blessing,the-blessing-1,...,"                    Math, Easy",https://www.hackerearth.com/problem/algorithm/the-blessing-1/,Hackerearth
+Will you be my friend?,will-you-be-my-friend-pledge-easy,...,                    Easy,https://www.hackerearth.com/problem/algorithm/will-you-be-my-friend-pledge-easy/,Hackerearth
+Intelligent Girl ,intelligent-girl-1,...,                    Easy,https://www.hackerearth.com/problem/algorithm/intelligent-girl-1/,Hackerearth
+Trick with the cards,trick-with-the-cards,...,"                    Math, Ad-Hoc, Simulation, Easy-Medium",https://www.hackerearth.com/problem/algorithm/trick-with-the-cards/,Hackerearth
+City and Campers 2,city-and-campers-2,...,"                    Disjoint Set, Implementation, Medium-Hard",https://www.hackerearth.com/problem/algorithm/city-and-campers-2/,Hackerearth
+City and Soldiers,city-and-soldiers,...,"                    Disjoint Set, Medium",https://www.hackerearth.com/problem/algorithm/city-and-soldiers/,Hackerearth
+City and Campers,city-and-campers,...,"                    Disjoint Set, Easy-Medium",https://www.hackerearth.com/problem/algorithm/city-and-campers/,Hackerearth
+City and Fireman Vincent,city-and-fireman-vincent,...,"                    Disjoint Set, Easy-Medium",https://www.hackerearth.com/problem/algorithm/city-and-fireman-vincent/,Hackerearth
+City and Flood,city-and-flood-1,...,"                    Disjoint Set, Easy",https://www.hackerearth.com/problem/algorithm/city-and-flood-1/,Hackerearth
+The Competitive Class,the-competitive-class-3,...,                    Easy,https://www.hackerearth.com/problem/algorithm/the-competitive-class-3/,Hackerearth
+Akash and too many assign...,akash-and-too-many-assignments,...,"                    Medium, Algorithms, Fenwick Tree",https://www.hackerearth.com/problem/algorithm/akash-and-too-many-assignments/,Hackerearth
+Marut and Strings,marut-and-strings-4,...,"                    Easy, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/marut-and-strings-4/,Hackerearth
+Monk and Match Making,monk-and-match-making,...,"                    Medium, Hashing",https://www.hackerearth.com/problem/algorithm/monk-and-match-making/,Hackerearth
+Monk and Tasks,monk-and-tasks,...,"                    Easy-Medium, Hashing",https://www.hackerearth.com/problem/algorithm/monk-and-tasks/,Hackerearth
+Monk in the land of Pokem...,monk-in-the-land-of-pokemons,...,"                    Easy, Hashing",https://www.hackerearth.com/problem/algorithm/monk-in-the-land-of-pokemons/,Hackerearth
+Monk and the Collision,monk-and-the-collision,...,"                    Hashing, Easy",https://www.hackerearth.com/problem/algorithm/monk-and-the-collision/,Hackerearth
+Monk at the Graph Factory,monk-at-the-graph-factory,...,"                    Trees, Graph Theory, Easy",https://www.hackerearth.com/problem/algorithm/monk-at-the-graph-factory/,Hackerearth
+Monk's birthday treat,monks-birthday-treat,...,"                    Graph Theory, Easy-Medium, DFS",https://www.hackerearth.com/problem/algorithm/monks-birthday-treat/,Hackerearth
+Monk in the real estate,monk-in-the-real-estate,...,"                    Easy, Ad-Hoc",https://www.hackerearth.com/problem/algorithm/monk-in-the-real-estate/,Hackerearth
+Kingdom Of Monkeys,kingdom-of-monkeys,...,"                    Easy-Medium, DFS, Graph Theory",https://www.hackerearth.com/problem/algorithm/kingdom-of-monkeys/,Hackerearth
+The final fight [6],the-final-fight-6,...,"                    Medium, Math, Modular arithmetic",https://www.hackerearth.com/problem/algorithm/the-final-fight-6/,Hackerearth
+The Falling Eagle [5],the-falling-eagle-5,...,"                    Greedy, Hard",https://www.hackerearth.com/problem/algorithm/the-falling-eagle-5/,Hackerearth
+The art of security [4],the-art-of-security-4,...,"                    Greedy, Combinatorics, Medium",https://www.hackerearth.com/problem/algorithm/the-art-of-security-4/,Hackerearth
+The savior? [3],the-savior-3,...,"                    Easy, Ad-Hoc, Math",https://www.hackerearth.com/problem/algorithm/the-savior-3/,Hackerearth
+Supernatural Squad [2],supernatural-squad-2,...,"                    Easy-Medium, Dynamic Programming, Recursion",https://www.hackerearth.com/problem/algorithm/supernatural-squad-2/,Hackerearth
+The rise of the weird... ...,the-rise-of-the-weird-things-1,...,"                    Easy, Ad-Hoc, Sorting",https://www.hackerearth.com/problem/algorithm/the-rise-of-the-weird-things-1/,Hackerearth
+Marut and Girls,marut-and-girls,...,"                    Easy, Hashing, Implementation, Data Structures",https://www.hackerearth.com/problem/algorithm/marut-and-girls/,Hackerearth
+Valentine Shopping,valentine-shopping-4,...,"                    Easy, Ad-Hoc, Math",https://www.hackerearth.com/problem/algorithm/valentine-shopping-4/,Hackerearth
+The art of verification,the-art-of-verification,...,"                    Ad-Hoc, Easy",https://www.hackerearth.com/problem/algorithm/the-art-of-verification/,Hackerearth
+Furniture Transportation,furniture-transportation-2,...,                    ,https://www.hackerearth.com/problem/algorithm/furniture-transportation-2/,Hackerearth
+Numerical Armageddon Round 1,numerical-armageddon-round-1-1,...,"                    Dynamic Programming, Modular arithmetic, Medium",https://www.hackerearth.com/problem/algorithm/numerical-armageddon-round-1-1/,Hackerearth
+Monk and the Magical Cand...,monk-and-the-magical-candy-bags,...,"                    Easy-Medium, Priority Queue, Heap",https://www.hackerearth.com/problem/algorithm/monk-and-the-magical-candy-bags/,Hackerearth
+The Monk and Class Marks,the-monk-and-class-marks,...,"                    Easy, Ad-Hoc",https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks/,Hackerearth
+Monk's Birthday Party,monks-birthday-party,...,"                    Easy, HashMap",https://www.hackerearth.com/problem/algorithm/monks-birthday-party/,Hackerearth
+Monk and his Friends,monk-and-his-friends,...,"                    Easy, Binary Search Tree",https://www.hackerearth.com/problem/algorithm/monk-and-his-friends/,Hackerearth
+Hard job,hard-job,...,"                    Hard, Data Structures, Fenwick Tree, Segment Trees",https://www.hackerearth.com/problem/algorithm/hard-job/,Hackerearth
+K-Distribution,k-distribution,...,"                    Hard, Combinatorics, Dynamic Programming, Number Theory, Math",https://www.hackerearth.com/problem/algorithm/k-distribution/,Hackerearth
+DigIT,digit,...,"                    Dynamic Programming, Number Theory, Hard, Brute Force, Combinatorics",https://www.hackerearth.com/problem/algorithm/digit/,Hackerearth
+Good points,good-points,...,"                    Easy-Medium, Ad-Hoc, Geometry, Implementation, Math",https://www.hackerearth.com/problem/algorithm/good-points/,Hackerearth
+Escape v2.0 — a quest to ...,escape-v20-a-quest-to-enrich-existing-game-2,...,                    ,https://www.hackerearth.com/problem/frontend/escape-v20-a-quest-to-enrich-existing-game-2/,Hackerearth
+The Confused Monk,the-confused-monk,...,"                    Easy, Math, Modular exponentiation, Number Theory",https://www.hackerearth.com/problem/algorithm/the-confused-monk/,Hackerearth
+Chandu and his Interns,chandu-and-his-interns,...,"                    Number Theory, Math, Easy",https://www.hackerearth.com/problem/algorithm/chandu-and-his-interns/,Hackerearth
+The Magical Shop,the-magical-shop,...,"                    Ad-Hoc, Easy, Math",https://www.hackerearth.com/problem/algorithm/the-magical-shop/,Hackerearth
+Monk's Love for Food,monks-love-for-food,...,"                    Stack, Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/monks-love-for-food/,Hackerearth
+Monk and Power of Time,monk-and-power-of-time,...,"                    Easy, Data Structures, Queue",https://www.hackerearth.com/problem/algorithm/monk-and-power-of-time/,Hackerearth
+Car Names,car-names-4,...,"                    Ad-Hoc, Easy, Implementation",https://www.hackerearth.com/problem/algorithm/car-names-4/,Hackerearth
+Utkarsh and Old Graph,utkarsh-and-old-graph-3,...,"                    Easy, Combinatorics, Math",https://www.hackerearth.com/problem/algorithm/utkarsh-and-old-graph-3/,Hackerearth
+The Enlightened Ones,the-enlightened-ones,...,"                    Medium, Binary Search",https://www.hackerearth.com/problem/algorithm/the-enlightened-ones/,Hackerearth
+The Old Monk,the-old-monk,...,"                    Binary Search, Easy-Medium",https://www.hackerearth.com/problem/algorithm/the-old-monk/,Hackerearth
+Monk's Encounter with Pol...,monks-encounter-with-polynomial,...,"                    Easy, Binary Search, Algorithms",https://www.hackerearth.com/problem/algorithm/monks-encounter-with-polynomial/,Hackerearth
+Discover the Monk,discover-the-monk,...,"                    Easy, Binary Search",https://www.hackerearth.com/problem/algorithm/discover-the-monk/,Hackerearth
+Monk in the Grass Fields,monk-in-the-grass-fields,...,"                    Sorting, Implementation, Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/monk-in-the-grass-fields/,Hackerearth
+Chandu and his Girlfriend...,chandu-and-his-girlfriend-returns,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/chandu-and-his-girlfriend-returns/,Hackerearth
+Puchi and Luggage ,puchi-and-luggage,...,"                    Sorting, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/puchi-and-luggage/,Hackerearth
+Chandu and his Girlfriend,chandu-and-his-girlfriend,...,"                    Easy, Sorting, Algorithms",https://www.hackerearth.com/problem/algorithm/chandu-and-his-girlfriend/,Hackerearth
+Utkarsh and Jumps,utkarsh-and-jumps,...,"                    Easy-Medium, Probability, Dynamic Programming",https://www.hackerearth.com/problem/algorithm/utkarsh-and-jumps/,Hackerearth
+Course of Study,course-of-study-2,...,"                    Combinatorics, Math, Medium",https://www.hackerearth.com/problem/algorithm/course-of-study-2/,Hackerearth
+Prateek and his Friends,prateek-and-his-friends,...,"                    Easy, Ad-Hoc",https://www.hackerearth.com/problem/algorithm/prateek-and-his-friends/,Hackerearth
+Chandu and Consecutive Le...,chandu-and-consecutive-letters,...,"                    String Algorithms, Greedy, Easy",https://www.hackerearth.com/problem/algorithm/chandu-and-consecutive-letters/,Hackerearth
+Terrible Chandu,terrible-chandu,...,"                    String Algorithms, Ad-Hoc",https://www.hackerearth.com/problem/algorithm/terrible-chandu/,Hackerearth
+Andrew and Max,andrew-and-max,...,                    Simple-math,https://www.hackerearth.com/problem/algorithm/andrew-and-max/,Hackerearth
+Nice-P Sequence,nice-p-sequence,...,"                    Math, Medium",https://www.hackerearth.com/problem/algorithm/nice-p-sequence/,Hackerearth
+ZeroShark,zeroshark,...,"                    Dynamic Programming, Medium",https://www.hackerearth.com/problem/algorithm/zeroshark/,Hackerearth
+Children Love Candies,children-love-candies,...,                    Simple-math,https://www.hackerearth.com/problem/algorithm/children-love-candies/,Hackerearth
+Very Cool Numbers,very-cool-numbers,...,                    Easy,https://www.hackerearth.com/problem/algorithm/very-cool-numbers/,Hackerearth
+Expected Matches,expected-matches,...,"                    Dynamic Programming, Expectation, Probability",https://www.hackerearth.com/problem/algorithm/expected-matches/,Hackerearth
+Recursive Sums,recursive-sums,...,"                    Implementation, Modular arithmetic, Easy",https://www.hackerearth.com/problem/algorithm/recursive-sums/,Hackerearth
+Perfect Baseline,perfect-baseline,...,"                    Sorting, Implementation, Ad-Hoc, Easy",https://www.hackerearth.com/problem/algorithm/perfect-baseline/,Hackerearth
+Rotations and Inversions,rotations-and-inversions,...,"                    Suffix Arrays, Two-pointer, BIT, Hard",https://www.hackerearth.com/problem/algorithm/rotations-and-inversions/,Hackerearth
+Wavy Ranges,wavy-ranges,...,"                    Dynamic Programming, Hard",https://www.hackerearth.com/problem/algorithm/wavy-ranges/,Hackerearth
+Ambiguous Tree,ambiguous-tree,...,"                    Trees, Hard, Data Structures",https://www.hackerearth.com/problem/algorithm/ambiguous-tree/,Hackerearth
+Attack or be attacked,attack-or-be-attacked,...,"                    Math, Medium",https://www.hackerearth.com/problem/algorithm/attack-or-be-attacked/,Hackerearth
+Array divider,array-divider,...,"                    Dynamic Programming, Medium",https://www.hackerearth.com/problem/algorithm/array-divider/,Hackerearth
+Kinako Bread,kinako-bread,...,"                    Two-pointer, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/kinako-bread/,Hackerearth
+Double Permutation,double-permutation,...,"                    BIT, Probability, Medium, Math",https://www.hackerearth.com/problem/algorithm/double-permutation/,Hackerearth
+Game of Cubes,game-of-cubes-43,...,"                    Graph Theory, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/game-of-cubes-43/,Hackerearth
+Tower of Hanoi,tower-of-hanoi-17,...,"                    Easy-Medium, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/tower-of-hanoi-17/,Hackerearth
+Power of Two,power-of-two-4,...,"                    Easy-Medium, Bit manipulation",https://www.hackerearth.com/problem/algorithm/power-of-two-4/,Hackerearth
+Game of Strings,game-of-strings-2,...,"                    KMP, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/game-of-strings-2/,Hackerearth
+"Walter, Jesse and HCF",walter-jesse-and-hcf,...,"                    Math, Easy-Medium, Number Theory",https://www.hackerearth.com/problem/algorithm/walter-jesse-and-hcf/,Hackerearth
+ADD-SUBTRACT!,add-subtract,...,"                    Brute Force, Greedy, Sorting, Easy-Medium",https://www.hackerearth.com/problem/algorithm/add-subtract/,Hackerearth
+New game of Oz,new-game-of-oz,...,"                    Ad-Hoc, Easy-Medium, Sorting",https://www.hackerearth.com/problem/algorithm/new-game-of-oz/,Hackerearth
+2 Fast 2 Furious,2-fast-2-furious,...,"                    Easy, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/2-fast-2-furious/,Hackerearth
+Sharpen the pencils,sharpen-the-pencils-2,...,"                    Greedy, Implementation, Easy-Medium",https://www.hackerearth.com/problem/algorithm/sharpen-the-pencils-2/,Hackerearth
+Biased Chandan,biased-chandan,...,"                    Easy, Stack, Ad-Hoc, Data Structures",https://www.hackerearth.com/problem/algorithm/biased-chandan/,Hackerearth
+Bruce and the Chocolates,bruce-and-the-chocolates-9,...,"                    Bipartite Graph, Algorithms, Number Theory, Medium-Hard",https://www.hackerearth.com/problem/algorithm/bruce-and-the-chocolates-9/,Hackerearth
+Mobile Conversations,mobile-conversations,...,"                    Sorting, Greedy, Medium-Hard",https://www.hackerearth.com/problem/algorithm/mobile-conversations/,Hackerearth
+Kth smallest number again,kth-smallest-number-again-2,...,"                    Binary Search, Easy-Medium, Sorting",https://www.hackerearth.com/problem/algorithm/kth-smallest-number-again-2/,Hackerearth
+String Partition,string-partition,...,"                    Dynamic Programming, Recursion, String Algorithms, Easy-Medium",https://www.hackerearth.com/problem/algorithm/string-partition/,Hackerearth
+Break Bricks — it's shoot...,notes-everyone-loves-keeping-it,...,                    ,https://www.hackerearth.com/problem/frontend/notes-everyone-loves-keeping-it/,Hackerearth
+Panda and Numbers,panda-and-numbers,...,"                    Dynamic Programming, Memoization, Recursion, Medium",https://www.hackerearth.com/problem/algorithm/panda-and-numbers/,Hackerearth
+Panda and Destruction,panda-and-destruction,...,"                    Graph Theory, Set, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/panda-and-destruction/,Hackerearth
+Panda and Combination,panda-and-combination,...,"                    Greedy, Math, Easy-Medium",https://www.hackerearth.com/problem/algorithm/panda-and-combination/,Hackerearth
+Panda and Maximum product,panda-and-maximum-product,...,"                    Ad-Hoc, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/panda-and-maximum-product/,Hackerearth
+Panda and Chain Reaction,panda-and-chain-reaction,...,"                    Easy, Ad-Hoc, Basic Programming, Number Theory",https://www.hackerearth.com/problem/algorithm/panda-and-chain-reaction/,Hackerearth
+Phoebe's Melody,phoebes-melody-1,...,"                    Dynamic Programming, Medium-Hard, Data Structures",https://www.hackerearth.com/problem/algorithm/phoebes-melody-1/,Hackerearth
+Playing Cards,playing-cards-1,...,"                    Math, Combinatorics, Medium",https://www.hackerearth.com/problem/algorithm/playing-cards-1/,Hackerearth
+Fashion Line,fashion-line-1,...,"                    Ad-Hoc, Implementation, Medium, Basic Programming",https://www.hackerearth.com/problem/algorithm/fashion-line-1/,Hackerearth
+Head-chef Monica,head-chef-monica-1,...,"                    Hashing, Easy-Medium, Ad-Hoc, Implementation",https://www.hackerearth.com/problem/algorithm/head-chef-monica-1/,Hackerearth
+Finding Dinosaurs,finding-dinosaurs-1,...,"                    Implementation, Hashing, Binary Search Tree, Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/finding-dinosaurs-1/,Hackerearth
+3rdSmallestAndLargest,3rdsmallestandlargest-1,...,"                    Ad-Hoc, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/3rdsmallestandlargest-1/,Hackerearth
+Xsquare And Management,xsquare-and-management,...,"                    Combinatorics, Trees, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/xsquare-and-management/,Hackerearth
+Xsquare And Array Operations,xsquare-and-array-operations,...,"                    Segment Trees, Data Structures, Divide And Conquer, Medium-Hard",https://www.hackerearth.com/problem/algorithm/xsquare-and-array-operations/,Hackerearth
+Xsquare And Number List,xsquare-and-number-list,...,"                    Binary Search, Implementation, Medium",https://www.hackerearth.com/problem/algorithm/xsquare-and-number-list/,Hackerearth
+Xsquare And Chocolates Bars,xsquare-and-chocolates-bars-2,...,"                    Dynamic Programming, Easy-Medium, Implementation",https://www.hackerearth.com/problem/algorithm/xsquare-and-chocolates-bars-2/,Hackerearth
+Xsquare And Double Strings,xsquare-and-double-strings-1,...,"                    Easy, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/xsquare-and-double-strings-1/,Hackerearth
+Strings,strings-1,...,"                    Easy, String Algorithms, Math, Combinatorics",https://www.hackerearth.com/problem/algorithm/strings-1/,Hackerearth
+Palindromes,palindromes-3,...,"                    String Algorithms, Easy, Implementation, Basic Programming",https://www.hackerearth.com/problem/algorithm/palindromes-3/,Hackerearth
+Roy and Ropes,roy-and-ropes,...,"                    Easy-Medium, Ad-Hoc, Implementation, Dynamic Programming",https://www.hackerearth.com/problem/algorithm/roy-and-ropes/,Hackerearth
+Roy and Wobbly Numbers,roy-and-wobbly-numbers,...,"                    Ad-Hoc, Easy, Math",https://www.hackerearth.com/problem/algorithm/roy-and-wobbly-numbers/,Hackerearth
+PrimeString,primestring,...,"                    Ad-Hoc, Implementation, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/primestring/,Hackerearth
+Roy and Diamonds,roy-and-diamonds,...,"                    Easy-Medium, Math, Geometry",https://www.hackerearth.com/problem/algorithm/roy-and-diamonds/,Hackerearth
+Fast Sort,fast-sort-1,...,"                    Greedy, Brute Force, Sorting, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/fast-sort-1/,Hackerearth
+Matrix must die,matrix-must-die,...,"                    Hard, Matrix Exponentiation, Math",https://www.hackerearth.com/problem/algorithm/matrix-must-die/,Hackerearth
+Frames,frames-4,...,"                    Fenwick Tree, Combinatorics, Data Structures, Hard",https://www.hackerearth.com/problem/algorithm/frames-4/,Hackerearth
+AABBAAC,aabbaac,...,"                    Medium, Implementation, String Algorithms",https://www.hackerearth.com/problem/algorithm/aabbaac/,Hackerearth
+Xsquare And Two Arrays,xsquare-and-two-arrays,...,"                    Easy-Medium, Implementation, Dynamic Programming, Basic Programming",https://www.hackerearth.com/problem/algorithm/xsquare-and-two-arrays/,Hackerearth
+Xsquare And Two Strings,xsquare-and-two-strings-1,...,"                    Easy, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/xsquare-and-two-strings-1/,Hackerearth
+Scheduling War,scheduling-war,...,"                    Flow, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/scheduling-war/,Hackerearth
+Xsquare And Palindromes I...,xsquare-and-palindromes-insertion,...,"                    Easy, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/xsquare-and-palindromes-insertion/,Hackerearth
+SmithNumbers,smithnumbers,...,"                    Math, Number Theory, Prime Factorization, Medium",https://www.hackerearth.com/problem/algorithm/smithnumbers/,Hackerearth
+Moody Numbers,moody-numbers,...,"                    Math, Brute Force, Easy-Medium",https://www.hackerearth.com/problem/algorithm/moody-numbers/,Hackerearth
+We Are On Fire,we-are-on-fire,...,"                    Graph Theory, DFS, Medium",https://www.hackerearth.com/problem/algorithm/we-are-on-fire/,Hackerearth
+Non-Fibo,non-fibo,...,"                    Number Theory, Easy-Medium, Math",https://www.hackerearth.com/problem/algorithm/non-fibo/,Hackerearth
+Battle Of Words,battle-of-words,...,"                    Ad-Hoc, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/battle-of-words/,Hackerearth
+Xsquare And Maximum Sum S...,xsquare-and-maximum-sum-subarray,...,"                    Segment Trees, Sorting, Data Structures, Hard",https://www.hackerearth.com/problem/algorithm/xsquare-and-maximum-sum-subarray/,Hackerearth
+Panda's programming tour,pandas-programming-tour,...,"                    Heavy light decomposition, Disjoint Set, Dynamic Programming, Medium-Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/pandas-programming-tour/,Hackerearth
+Great Arjit and Numbers,great-arjit-and-numbers,...,"                    Easy, Modular arithmetic",https://www.hackerearth.com/problem/algorithm/great-arjit-and-numbers/,Hackerearth
+Prime numbers again,prime-numbers-again,...,"                    Easy-Medium, Dynamic Programming, Ad-Hoc",https://www.hackerearth.com/problem/algorithm/prime-numbers-again/,Hackerearth
+Sorted String,sorted-string,...,"                    Easy, Basic Programming, Implementation",https://www.hackerearth.com/problem/algorithm/sorted-string/,Hackerearth
+Kriti and her Birthday Gift,kriti-and-her-birthday-gift,...,"                    Sorting, HashMap, Sqrt-Decomposition, Medium-Hard",https://www.hackerearth.com/problem/algorithm/kriti-and-her-birthday-gift/,Hackerearth
+Class Homework,class-homework,...,"                    Ad-Hoc, Medium, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/class-homework/,Hackerearth
+Shil and Birthday present,shil-and-birthday-present,...,"                    Sorting, Implementation, Easy-Medium",https://www.hackerearth.com/problem/algorithm/shil-and-birthday-present/,Hackerearth
+Simple Task III,name-string-1,...,"                    Easy-Medium, Ad-Hoc, Math",https://www.hackerearth.com/problem/algorithm/name-string-1/,Hackerearth
+A simple task,a-simple-task,...,"                    Easy-Medium, Number Theory, Math",https://www.hackerearth.com/problem/algorithm/a-simple-task/,Hackerearth
+Palindromic Ciphers,palindromic-ciphers,...,"                    Easy, Ad-Hoc",https://www.hackerearth.com/problem/algorithm/palindromic-ciphers/,Hackerearth
+Xsquare and Interesting S...,xsquare-and-interesting-sequences,...,"                    Math, Easy-Medium",https://www.hackerearth.com/problem/algorithm/xsquare-and-interesting-sequences/,Hackerearth
+Xsquare And Coin Collection ,xsquare-and-coin-collection-2,...,"                    Ad-Hoc, Implementation, Easy",https://www.hackerearth.com/problem/algorithm/xsquare-and-coin-collection-2/,Hackerearth
+Counting on Tree,counting-on-tree-1,...,"                    Algorithms, Dynamic Programming, Hard",https://www.hackerearth.com/problem/algorithm/counting-on-tree-1/,Hackerearth
+Connected Components,connected-components-1,...,"                    Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/connected-components-1/,Hackerearth
+Bits transformation,bits-transformation-1,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/bits-transformation-1/,Hackerearth
+Equivalent Strings 2,equivalent-strings-2-2,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/equivalent-strings-2-2/,Hackerearth
+Roy and Maximum XOR,roy-and-maximum-xor,...,"                    Math, Ad-Hoc, Easy-Medium",https://www.hackerearth.com/problem/algorithm/roy-and-maximum-xor/,Hackerearth
+Roy and Counting Sorted S...,roy-and-counting-sorted-substrings-1,...,"                    Ad-Hoc, String Algorithms, Implementation, Basic Programming, Easy-Medium",https://www.hackerearth.com/problem/algorithm/roy-and-counting-sorted-substrings-1/,Hackerearth
+Pink and Blue,pink-and-blue,...,"                    DFS, Graph Theory, Algorithms, Easy-Medium",https://www.hackerearth.com/problem/algorithm/pink-and-blue/,Hackerearth
+Skipping Sum,skipping-sum-1,...,"                    Dynamic Programming, Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/skipping-sum-1/,Hackerearth
+Its all about magic!,its-all-about-magic,...,"                    Ad-Hoc, Easy-Medium, Basic Programming",https://www.hackerearth.com/problem/algorithm/its-all-about-magic/,Hackerearth
+Divide Array,divide-array-2,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/divide-array-2/,Hackerearth
+Dipu and Interesting Numbers,dipu-and-interesting-numbers-2,...,"                    Easy, Math, Number Theory, Binary Search, Algorithms",https://www.hackerearth.com/problem/algorithm/dipu-and-interesting-numbers-2/,Hackerearth
+Roy and Tiles,roy-and-tiles-1,...,"                    Sorting, Binary Search, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/roy-and-tiles-1/,Hackerearth
+Roy and Coin Boxes ,roy-and-coin-boxes-1,...,"                    BIT, Segment Trees, Dynamic Programming, Medium, Fenwick Tree, Data Structures",https://www.hackerearth.com/problem/algorithm/roy-and-coin-boxes-1/,Hackerearth
+Roy's Boolean Function ,roys-boolean-function-1,...,"                    Ad-Hoc, Easy-Medium, Math, Sieve",https://www.hackerearth.com/problem/algorithm/roys-boolean-function-1/,Hackerearth
+Roy and Matrix Sum,roy-and-matrix-sum-1,...,"                    Math, Easy-Medium, Implementation, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/roy-and-matrix-sum-1/,Hackerearth
+Roy and Texting Robot ,roy-and-texting-robot-2,...,"                    Easy, Implementation, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/roy-and-texting-robot-2/,Hackerearth
+Shil and Greedy approach,shil-and-greedy-approach,...,"                    Graph Theory, BFS, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/shil-and-greedy-approach/,Hackerearth
+Beautiful primes ,beautiful-primes,...,"                    Math, Medium",https://www.hackerearth.com/problem/algorithm/beautiful-primes/,Hackerearth
+Riya's Birthday Party,riyas-birthday-party-1,...,"                    Math, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/riyas-birthday-party-1/,Hackerearth
+Shil and Palindrome,shil-and-palindrome,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/shil-and-palindrome/,Hackerearth
+Divisors,divisors-1,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/divisors-1/,Hackerearth
+Mehta And The Difficult Task,mehta-and-the-difficult-task-3,...,"                    Dynamic Programming, Matrix Exponentiation, Math, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/mehta-and-the-difficult-task-3/,Hackerearth
+Largest Lexicographical R...,largest-lexicographical-rotation-ii,...,"                    Algorithms, String Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/largest-lexicographical-rotation-ii/,Hackerearth
+Nakul and Gold Coins,nakul-and-gold-coins,...,"                    Medium, Number Theory, Binary Search, Algorithms",https://www.hackerearth.com/problem/algorithm/nakul-and-gold-coins/,Hackerearth
+Super Two Letter Strings,super-two-letter-strings,...,"                    Easy-Medium, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/super-two-letter-strings/,Hackerearth
+Xsquare And Balanced Strings,xsquare-and-balanced-strings,...,"                    Ad-Hoc, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/xsquare-and-balanced-strings/,Hackerearth
+The Magic,the-magic,...,"                    Easy, Ad-Hoc, Algorithms",https://www.hackerearth.com/problem/algorithm/the-magic/,Hackerearth
+Mehta and the Evil Strings,mehta-and-the-evil-strings,...,"                    Math, Matrix Exponentiation, Bitmask, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/mehta-and-the-evil-strings/,Hackerearth
+Xsquare and A Gaming Matr...,xsquare-and-a-gaming-matrix,...,"                    Dynamic Programming, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/xsquare-and-a-gaming-matrix/,Hackerearth
+Square Transaction,square-transaction-20,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/square-transaction-20/,Hackerearth
+Numbers of Interest,numbers-of-interest-1,...,"                    Easy, Math, Basic Programming",https://www.hackerearth.com/problem/algorithm/numbers-of-interest-1/,Hackerearth
+Square Number,square-number-14,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/square-number-14/,Hackerearth
+Calculate the Power,calculate-the-power,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/calculate-the-power/,Hackerearth
+Number of Divisors,number-of-divisors-5,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/number-of-divisors-5/,Hackerearth
+Remove Duplicates,remove-duplicates-3,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/remove-duplicates-3/,Hackerearth
+Sherlock and Special Count,sherlock-and-special-count,...,"                    Math, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/sherlock-and-special-count/,Hackerearth
+Sherlock and Inversions,sherlock-and-inversions,...,"                    Sqrt-Decomposition, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/sherlock-and-inversions/,Hackerearth
+Sherlock and Coprime Subset,sherlock-and-coprime-subset,...,"                    Dynamic Programming, Bitmask, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/sherlock-and-coprime-subset/,Hackerearth
+Sherlock and Dates,sherlock-and-dates,...,"                    Ad-Hoc, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/sherlock-and-dates/,Hackerearth
+Sherlock and Numbers,sherlock-and-numbers,...,"                    Sorting, Binary Search, Algorithms, Easy",https://www.hackerearth.com/problem/algorithm/sherlock-and-numbers/,Hackerearth
+Chess Tournament,chess-tournament-4,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/chess-tournament-4/,Hackerearth
+Permutation Again,permutation-again,...,"                    Easy, Ad-Hoc, Algorithms",https://www.hackerearth.com/problem/algorithm/permutation-again/,Hackerearth
+Minimizing Path Cost,minimizing-path-cost,...,"                    Algorithms, Shortest-path, Medium",https://www.hackerearth.com/problem/algorithm/minimizing-path-cost/,Hackerearth
+Next Lucky Number,next-lucky-number,...,"                    Recursion, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/next-lucky-number/,Hackerearth
+Random Generator,random-generator,...,"                    Binary Search, Greedy, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/random-generator/,Hackerearth
+Troubling Triple,troubling-triple,...,"                    Binary Search, Sorting, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/troubling-triple/,Hackerearth
+Unique Ranking,unique-ranking,...,"                    Sorting, Implementation, Brute Force, Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/unique-ranking/,Hackerearth
+Game of Strings,game-of-strings,...,"                    Dynamic Programming, Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/game-of-strings/,Hackerearth
+Let's Begin!,lets-begin,...,"                    Easy, Dynamic Programming, Math, Recursion",https://www.hackerearth.com/problem/algorithm/lets-begin/,Hackerearth
+Oliver and the Game,oliver-and-the-game-3,...,"                    DFS, Data Structures, Algorithms, Easy-Medium",https://www.hackerearth.com/problem/algorithm/oliver-and-the-game-3/,Hackerearth
+Geeky Alice and Naughty Bob,geeky-alice-and-naughty-bob,...,"                    Math, Easy-Medium",https://www.hackerearth.com/problem/algorithm/geeky-alice-and-naughty-bob/,Hackerearth
+Xsquare and A Fantastic S...,xsquare-and-a-fantastic-sequence,...,"                    Greedy, DFS, Implementation, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/xsquare-and-a-fantastic-sequence/,Hackerearth
+Mozart numbers,mozart-numbers,...,"                    Medium, Math",https://www.hackerearth.com/problem/algorithm/mozart-numbers/,Hackerearth
+Lalit and Kundu,lalit-and-kundu,...,"                    Easy-Medium, Probability, Math",https://www.hackerearth.com/problem/algorithm/lalit-and-kundu/,Hackerearth
+Agitated Chandan,agitated-chandan,...,"                    Graph Theory, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/agitated-chandan/,Hackerearth
+Match makers,match-makers,...,"                    Sorting, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/match-makers/,Hackerearth
+Help Ashu,help-ashu-1,...,"                    Segment Trees, BIT, Easy-Medium, Data Structures",https://www.hackerearth.com/problem/algorithm/help-ashu-1/,Hackerearth
+Akash and the Assignment 1,akash-and-the-assignment-1-12,...,"                    Easy, Hashing, Algorithms",https://www.hackerearth.com/problem/algorithm/akash-and-the-assignment-1-12/,Hackerearth
+Roy and Flower Farm,roy-and-flower-farm,...,"                    Easy-Medium, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/roy-and-flower-farm/,Hackerearth
+Weighted String,weighted-string,...,"                    Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/weighted-string/,Hackerearth
+Beating the dices in thei...,beating-the-dices-in-their-own-game,...,"                    Matching, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/beating-the-dices-in-their-own-game/,Hackerearth
+Mehta's Dilemma,mehtas-dilemma,...,"                    Dynamic Programming, Matrix Exponentiation, Hard, Math",https://www.hackerearth.com/problem/algorithm/mehtas-dilemma/,Hackerearth
+Update And Query,update-and-query,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/update-and-query/,Hackerearth
+A Coin Game,a-coin-game,...,"                    Game Theory, Medium, Math",https://www.hackerearth.com/problem/algorithm/a-coin-game/,Hackerearth
+Xsquare and Increasing Se...,xsquare-and-increasing-sequences,...,"                    Dynamic Programming, Greedy, Sorting, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/xsquare-and-increasing-sequences/,Hackerearth
+Chandan and Balanced Strings,chandan-and-balanced-strings,...,"                    Sorting, Bit manipulation, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/chandan-and-balanced-strings/,Hackerearth
+Unique Gems,unique-gems,...,"                    Suffix Arrays, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/unique-gems/,Hackerearth
+Matrix Dispute,matrix-dispute,...,"                    Medium-Hard, Greedy, Sorting, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/matrix-dispute/,Hackerearth
+Comrades - III,comrades-iii,...,"                    Medium-Hard, DFS, Segment Trees, Algorithms",https://www.hackerearth.com/problem/algorithm/comrades-iii/,Hackerearth
+Shil and New Year Gift,shil-and-new-year-gift,...,"                    Dynamic Programming, Bitmask, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/shil-and-new-year-gift/,Hackerearth
+Candy Distribution 3,candy-distribution-3-1,...,"                    Medium, Combinatorics, Math",https://www.hackerearth.com/problem/algorithm/candy-distribution-3-1/,Hackerearth
+Intense love for mathematics,intense-love-for-mathematics,...,"                    Ad-Hoc, Medium, Math",https://www.hackerearth.com/problem/algorithm/intense-love-for-mathematics/,Hackerearth
+A Card Game,a-card-game,...,"                    Medium, Math",https://www.hackerearth.com/problem/algorithm/a-card-game/,Hackerearth
+Xor in Tree,xor-in-tree-1,...,"                    Medium, Trees, Fenwick Tree, Data Structures",https://www.hackerearth.com/problem/algorithm/xor-in-tree-1/,Hackerearth
+Equivalent Strings,equivalent-strings-1,...,"                    Dynamic Programming, Medium, Math, Easy-Medium",https://www.hackerearth.com/problem/algorithm/equivalent-strings-1/,Hackerearth
+Tree Coloring,tree-coloring,...,"                    Medium, Combinatorics, Trees, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/tree-coloring/,Hackerearth
+Substring Queries,substring-queries,...,"                    Medium, Two-pointer, Ad-Hoc, Algorithms",https://www.hackerearth.com/problem/algorithm/substring-queries/,Hackerearth
+PK and interesting language,pk-and-interesting-language,...,"                    Matrix Exponentiation, Graph Theory, Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/pk-and-interesting-language/,Hackerearth
+LADDER RIDE,ladder-ride-1,...,"                    Math, Easy-Medium",https://www.hackerearth.com/problem/algorithm/ladder-ride-1/,Hackerearth
+Little Ashish and his wife.,little-ashish-and-his-wife,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/little-ashish-and-his-wife/,Hackerearth
+O and Z task for Oz!,o-and-z-task-for-oz,...,"                    Easy, Ad-Hoc, Algorithms",https://www.hackerearth.com/problem/algorithm/o-and-z-task-for-oz/,Hackerearth
+ICPC Team Management.,icpc-team-management,...,"                    Ad-Hoc, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/icpc-team-management/,Hackerearth
+Dhoom 4,dhoom-4,...,"                    Graph Theory, BFS, Math, Greedy, Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/dhoom-4/,Hackerearth
+Prom Night,prom-night,...,"                    Sorting, Implementation, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/prom-night/,Hackerearth
+Number of R's,number-of-rs-1,...,"                    Dynamic Programming, Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/number-of-rs-1/,Hackerearth
+Panda and XOR,panda-and-xor,...,"                    Ad-Hoc, Easy-Medium, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/panda-and-xor/,Hackerearth
+Maximum AND ,maximum-and,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/maximum-and/,Hackerearth
+Brio and his House,brio-and-his-house-10,...,"                    circum-circle, Triangles, Easy, Basic-Programming",https://www.hackerearth.com/problem/algorithm/brio-and-his-house-10/,Hackerearth
+Ikshu's love for binary n...,ikshus-love-for-binary-numbers,...,"                    Medium-Hard, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/ikshus-love-for-binary-numbers/,Hackerearth
+Ikshu and his class,ikshu-and-his-class-1,...,"                    DFS, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/ikshu-and-his-class-1/,Hackerearth
+Ikshu and his new year ma...,ikshu-and-his-new-year-matrix,...,"                    Sieve, Brute Force, Dynamic Programming",https://www.hackerearth.com/problem/algorithm/ikshu-and-his-new-year-matrix/,Hackerearth
+Ikshu and his machine gun,ikshu-and-his-machine-gun,...,"                    Ad-Hoc, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/ikshu-and-his-machine-gun/,Hackerearth
+ABCD Strings,abcd-strings,...,"                    Graph Theory, Matrix Exponentiation, Hard, Recursion, Algorithms",https://www.hackerearth.com/problem/algorithm/abcd-strings/,Hackerearth
+Sum Of Products,sum-of-products,...,"                    Math, Number Theory, Medium",https://www.hackerearth.com/problem/algorithm/sum-of-products/,Hackerearth
+Painting The logo,painting-the-logo,...,"                    Binary Search, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/painting-the-logo/,Hackerearth
+Rahul's Logo,rahuls-logo,...,"                    Implementation, Basic Programming, Easy",https://www.hackerearth.com/problem/algorithm/rahuls-logo/,Hackerearth
+The Magician,the-magician-17,...,"                    Math, Hard",https://www.hackerearth.com/problem/algorithm/the-magician-17/,Hackerearth
+Jobs,jobs-25,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/jobs-25/,Hackerearth
+String query,string-query-22,...,"                    Implementation, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/string-query-22/,Hackerearth
+Boolean Expressions,boolean-expressions-2,...,"                    Math, Medium-Hard",https://www.hackerearth.com/problem/algorithm/boolean-expressions-2/,Hackerearth
+Inversions Revisited,inversions-revisited,...,"                    BIT, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/inversions-revisited/,Hackerearth
+Naughty Sid and SEV,naughty-sid-and-sev-6,...,"                    Math, Easy",https://www.hackerearth.com/problem/algorithm/naughty-sid-and-sev-6/,Hackerearth
+Tiles,tiles,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/tiles/,Hackerearth
+Algorithmic Substring,algorithmic-substring,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/algorithmic-substring/,Hackerearth
+Dogs and Cats,dogs-and-cats,...,"                    Math, Hard",https://www.hackerearth.com/problem/algorithm/dogs-and-cats/,Hackerearth
+Xor in Sequence,xor-in-sequence,...,                    Math,https://www.hackerearth.com/problem/algorithm/xor-in-sequence/,Hackerearth
+Little Deepu and Array,little-deepu-and-array,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/little-deepu-and-array/,Hackerearth
+Andrew and Wengaluru City,andrew-and-wengaluru-city,...,"                    Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/andrew-and-wengaluru-city/,Hackerearth
+Big P and Math,big-p-and-math-15,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/big-p-and-math-15/,Hackerearth
+Josh and Hotel,josh-and-hotel-2,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/josh-and-hotel-2/,Hackerearth
+Beautiful Badges,beautiful-badges,...,"                    Hard, Graph Theory, Algorithms, Matching",https://www.hackerearth.com/problem/algorithm/beautiful-badges/,Hackerearth
+Parade,parade-4,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/parade-4/,Hackerearth
+Oliver and the battle,oliver-and-the-battle-1,...,"                    Algorithms, DFS, BFS",https://www.hackerearth.com/problem/algorithm/oliver-and-the-battle-1/,Hackerearth
+Sherif and The BOMBS,sherif-and-the-bombs-7,...,                    Easy,https://www.hackerearth.com/problem/algorithm/sherif-and-the-bombs-7/,Hackerearth
+Help Raj play Table Tennis,help-raj-play-table-tennis,...,"                    Recursion, Trees, Medium, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/help-raj-play-table-tennis/,Hackerearth
+Raj & his Slippers,raj-his-slippers,...,"                    Greedy, Algorithms, Easy-Medium",https://www.hackerearth.com/problem/algorithm/raj-his-slippers/,Hackerearth
+Count Numbers,count-numbers-7,...,"                    Math, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/count-numbers-7/,Hackerearth
+Christmas-Gamecon,christmas-gamecon,...,"                    Game Theory, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/christmas-gamecon/,Hackerearth
+Aniruddha And HackerEarth,aniruddha-and-hackerearth,...,"                    Recursion, Easy, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/aniruddha-and-hackerearth/,Hackerearth
+Bholu-The Pandit,bholu-the-pandit-1,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/bholu-the-pandit-1/,Hackerearth
+AltF4 and UV Strip,altf4-and-uv-strip,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/altf4-and-uv-strip/,Hackerearth
+"AltF4, CtrlF4 and the Game",altf4-ctrlf4-and-the-game,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/altf4-ctrlf4-and-the-game/,Hackerearth
+AltF4 and HackerEarth's P...,altf4-and-hackerearths-problem-setting,...,                    ,https://www.hackerearth.com/problem/algorithm/altf4-and-hackerearths-problem-setting/,Hackerearth
+AltF4 and Spinal Network,altf4-and-spinal-network,...,                    ,https://www.hackerearth.com/problem/algorithm/altf4-and-spinal-network/,Hackerearth
+AltF4 and the beetles,altf4-and-the-beetles,...,                    ,https://www.hackerearth.com/problem/algorithm/altf4-and-the-beetles/,Hackerearth
+Bowl 'Em Over,bowl-em-over-4,...,"                    Medium, Simulation, Algorithms",https://www.hackerearth.com/problem/algorithm/bowl-em-over-4/,Hackerearth
+Simple Math,simple-math-1,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/simple-math-1/,Hackerearth
+Dexter and Mandark,dexter-and-mandark-1,...,"                    Algorithms, Medium, Completed",https://www.hackerearth.com/problem/algorithm/dexter-and-mandark-1/,Hackerearth
+Haunted,haunted,...,"                    Priority-Queue, Maps, Data-Structures, Easy",https://www.hackerearth.com/problem/algorithm/haunted/,Hackerearth
+Alook and Magic Spells ,alook-and-magic-spells,...,                    ,https://www.hackerearth.com/problem/algorithm/alook-and-magic-spells/,Hackerearth
+Help the Avengers ,help-the-avengers-6,...,                    ,https://www.hackerearth.com/problem/algorithm/help-the-avengers-6/,Hackerearth
+Help Ruchi,help-ruchi-8,...,                    ,https://www.hackerearth.com/problem/algorithm/help-ruchi-8/,Hackerearth
+Factor Game,factor-game-5,...,                    ,https://www.hackerearth.com/problem/algorithm/factor-game-5/,Hackerearth
+3D Game Of Thrones,3d-game-of-thrones-10,...,                    ,https://www.hackerearth.com/problem/algorithm/3d-game-of-thrones-10/,Hackerearth
+Good Times Vs. Bad Times,good-times-vs-bad-times-3,...,"                    Easy-medium, GCD, Ad-hoc, Math",https://www.hackerearth.com/problem/algorithm/good-times-vs-bad-times-3/,Hackerearth
+Divide to three,divide-to-three-33,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/divide-to-three-33/,Hackerearth
+Gifts,gifts,...,"                    Medium, Math",https://www.hackerearth.com/problem/algorithm/gifts/,Hackerearth
+String's Awesomeness,strings-awesomeness,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/strings-awesomeness/,Hackerearth
+Broken Amit,broken-amit,...,"                    Dynamic Programming, Bitmask, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/broken-amit/,Hackerearth
+The Array Walk,the-array-walk-8,...,"                    Math, Medium-Hard, Extended Euclid",https://www.hackerearth.com/problem/algorithm/the-array-walk-8/,Hackerearth
+RK String,rk-string,...,"                    String-Manipulation, Easy, Basic-Programming, Hashing",https://www.hackerearth.com/problem/algorithm/rk-string/,Hackerearth
+Road Demolishing,road-demolishing,...,"                    Graph Theory, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/road-demolishing/,Hackerearth
+Computing Salary,computing-salary,...,"                    Combinatorics, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/computing-salary/,Hackerearth
+Travelling Budget,travelling-budget,...,"                    Dynamic Programming, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/travelling-budget/,Hackerearth
+Tic Tac Toe,tic-tac-toe,...,"                    Combinatorics, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/tic-tac-toe/,Hackerearth
+Roy's Life Cycle,roys-life-cycle,...,"                    Easy, Implementation, Data Structures",https://www.hackerearth.com/problem/algorithm/roys-life-cycle/,Hackerearth
+Selection of Cities,selection-of-cities-2,...,"                    Combinatorics, Easy, Math",https://www.hackerearth.com/problem/algorithm/selection-of-cities-2/,Hackerearth
+Hunger Games,hunger-games,...,"                    Math, Sorting, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/hunger-games/,Hackerearth
+Counting Triangles,counting-triangles-4,...,"                    Hard, Basic Programming",https://www.hackerearth.com/problem/algorithm/counting-triangles-4/,Hackerearth
+Mehta And Subarrays,mehta-and-subarrays,...,"                    Sorting, Dynamic Programming, Binary Search, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/mehta-and-subarrays/,Hackerearth
+Mehta And Mathematical Eq...,mehta-and-mathematical-equation,...,"                    Dynamic Programming, Bit manipulation, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/mehta-and-mathematical-equation/,Hackerearth
+Mehta And The Boring Class,mehta-and-the-boring-class,...,"                    Sieve, Math, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/mehta-and-the-boring-class/,Hackerearth
+"Aaryan, Subsequences And ...",aaryan-subsequences-and-great-xor,...,"                    Bit manipulation, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/aaryan-subsequences-and-great-xor/,Hackerearth
+Grids Everywhere,grids-everywhere,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/grids-everywhere/,Hackerearth
+Mehta and the needy friend,mehta-and-the-needy-friend,...,"                    Binary Search, Dynamic Programming, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/mehta-and-the-needy-friend/,Hackerearth
+Xsquare and a Mathematica...,xsquare-and-a-mathematical-quest,...,"                    Number Theory, Dynamic Programming, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/xsquare-and-a-mathematical-quest/,Hackerearth
+Chemical Reaction,chemical-reaction,...,"                    Data Structures, BIT, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/chemical-reaction/,Hackerearth
+The SILLY SNAIL,the-silly-snail-3,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/the-silly-snail-3/,Hackerearth
+I Demand Trial by Combat,i-demand-trial-by-combat-13,...,"                    Medium, Ad-Hoc, Data Structures",https://www.hackerearth.com/problem/algorithm/i-demand-trial-by-combat-13/,Hackerearth
+Passing the Parcel,passing-the-parcel,...,"                    Brute Force, Algorithms, Easy",https://www.hackerearth.com/problem/algorithm/passing-the-parcel/,Hackerearth
+Crushing Violence,crushing-violence,...,"                    Algorithms, Easy",https://www.hackerearth.com/problem/algorithm/crushing-violence/,Hackerearth
+Amazing Race.,amazing-race-3,...,"                    Binary Search, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/amazing-race-3/,Hackerearth
+THE FOOTBALL FEST,the-football-fest-6,...,"                    Stack, Implementation, Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/the-football-fest-6/,Hackerearth
+BLACKBOX-2,blackbox-2-8,...,"                    Easy-Medium, Math, Medium",https://www.hackerearth.com/problem/algorithm/blackbox-2-8/,Hackerearth
+BOB -An Idiot!!,bob-an-idiot-11,...,"                    Hashing, Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/bob-an-idiot-11/,Hackerearth
+Vada Pav List,vada-pav-list-3,...,"                    Data Structures, Hashing, Easy-Medium",https://www.hackerearth.com/problem/algorithm/vada-pav-list-3/,Hackerearth
+Friendless Dr. Sheldon Co...,friendless-dr-sheldon-cooper-14,...,"                    Easy, BFS, Minimum Spanning Tree, Algorithms",https://www.hackerearth.com/problem/algorithm/friendless-dr-sheldon-cooper-14/,Hackerearth
+Little Jhool and Brute Force,little-jhool-and-brute-force-18,...,"                    Brute Force, Easy-Medium, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/little-jhool-and-brute-force-18/,Hackerearth
+Roy and Shopping,roy-and-shopping-20,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/roy-and-shopping-20/,Hackerearth
+Help out the Indian Army,help-out-the-indian-army,...,"                    Sorting, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/help-out-the-indian-army/,Hackerearth
+A game for soft-drinks,a-game-for-soft-drinks,...,"                    Dynamic Programming, Game Theory, Hard, Recursion, Memoization, Algorithms",https://www.hackerearth.com/problem/algorithm/a-game-for-soft-drinks/,Hackerearth
+Girlfriend's demands,girlfriends-demands,...,"                    Algorithms, Easy",https://www.hackerearth.com/problem/algorithm/girlfriends-demands/,Hackerearth
+Starting Game development,starting-game-development,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/starting-game-development/,Hackerearth
+OZO'S EQUATIONS,ozos-equations-1,...,"                    Math, Medium",https://www.hackerearth.com/problem/algorithm/ozos-equations-1/,Hackerearth
+Roy and Trending Topics,roy-and-trending-topics-1,...,"                    Heap, Easy-Medium, Implementation, Sorting, Data Structures",https://www.hackerearth.com/problem/algorithm/roy-and-trending-topics-1/,Hackerearth
+A to B,a-to-b-1,...,"                    Algorithms, Easy-Medium",https://www.hackerearth.com/problem/algorithm/a-to-b-1/,Hackerearth
+ A TWO CARD GAME,a-two-card-game-1,...,"                    Easy, Math, Probability",https://www.hackerearth.com/problem/algorithm/a-two-card-game-1/,Hackerearth
+Gaming Triples,gaming-triples,...,"                    Hard, BIT, Algorithms",https://www.hackerearth.com/problem/algorithm/gaming-triples/,Hackerearth
+Ma5termind and Xor Minimi...,ma5termind-and-xor-minimization,...,"                    Trie, Hard, Data Structures",https://www.hackerearth.com/problem/algorithm/ma5termind-and-xor-minimization/,Hackerearth
+Ma5termind's Birthday Party,ma5terminds-birthday-party,...,"                    Sieve, Easy-Medium, Basic Programming",https://www.hackerearth.com/problem/algorithm/ma5terminds-birthday-party/,Hackerearth
+Glowing Bulbs,glowing-bulbs,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/glowing-bulbs/,Hackerearth
+Apple Picking,apple-picking,...,"                    Geometry, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/apple-picking/,Hackerearth
+Mehta and the Bank Robbery,mehta-and-the-bank-robbery,...,"                    Dynamic Programming, Greedy, Sorting, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/mehta-and-the-bank-robbery/,Hackerearth
+Little Monty and Fibonacci,little-monty-and-fibonacci-1,...,"                    Medium-Hard, Number Theory, Math, Algorithms",https://www.hackerearth.com/problem/algorithm/little-monty-and-fibonacci-1/,Hackerearth
+Earthland,earthland,...,"                    Medium-Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/earthland/,Hackerearth
+To buy or not to buy,to-buy-or-not-to-buy-6,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/to-buy-or-not-to-buy-6/,Hackerearth
+Rooms,rooms-1,...,"                    Greedy, Priority Queue, Data Structures, Medium",https://www.hackerearth.com/problem/algorithm/rooms-1/,Hackerearth
+Mirrors and Trees,mirrors-and-trees,...,"                    Easy-Medium, Data Structures",https://www.hackerearth.com/problem/algorithm/mirrors-and-trees/,Hackerearth
+Amazing Test,amazing-test,...,"                    Dynamic Programming, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/amazing-test/,Hackerearth
+Numbers of Interest 2,numbers-of-interest-2-1,...,"                    Math, Algorithms, Easy-Medium",https://www.hackerearth.com/problem/algorithm/numbers-of-interest-2-1/,Hackerearth
+The Door Closing Game,the-door-closing-game-5,...,"                    Easy-Medium, Game Theory, Algorithms",https://www.hackerearth.com/problem/algorithm/the-door-closing-game-5/,Hackerearth
+Ankit and Numbers,ankit-and-numbers-8,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/ankit-and-numbers-8/,Hackerearth
+ANDI AND BOB,andi-and-bob-4,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/andi-and-bob-4/,Hackerearth
+Big P and Punishment,big-p-and-punishment-5,...,"                    DFS, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/big-p-and-punishment-5/,Hackerearth
+Brio and House - 2,brio-and-house-2-1,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/brio-and-house-2-1/,Hackerearth
+End Game,end-game,...,"                    Algorithms, Math, Easy-Medium",https://www.hackerearth.com/problem/algorithm/end-game/,Hackerearth
+Even Odd,even-odd-5,...,"                    Easy-Medium, Basic Programming",https://www.hackerearth.com/problem/algorithm/even-odd-5/,Hackerearth
+Distinct Digits I,distinct-digits-i-6,...,"                    BIT, Medium, Medium-Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/distinct-digits-i-6/,Hackerearth
+The Amazing Race,the-amazing-race-1,...,"                    Data Structures, Easy-Medium",https://www.hackerearth.com/problem/algorithm/the-amazing-race-1/,Hackerearth
+Delicious Prize,delicious-prize-8,...,"                    Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/delicious-prize-8/,Hackerearth
+Power of Twos,power-of-twos-1,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/power-of-twos-1/,Hackerearth
+Productive productivity,productive-productivity,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/productive-productivity/,Hackerearth
+Alien language,alien-language,...,"                    Basic Programming, Easy-Medium",https://www.hackerearth.com/problem/algorithm/alien-language/,Hackerearth
+Crazy kangaroo,crazy-kangaroo,...,"                    Math, Easy",https://www.hackerearth.com/problem/algorithm/crazy-kangaroo/,Hackerearth
+Super Power Of 2s,super-power-of-2s-2,...,"                    Hard, Data Structures",https://www.hackerearth.com/problem/algorithm/super-power-of-2s-2/,Hackerearth
+Kth Shortest Path,kth-shortest-path,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/kth-shortest-path/,Hackerearth
+John and the Ladder of Odds,john-and-the-ladder-of-odds-1,...,"                    Hard, Matrix Exponentiation, Algorithms",https://www.hackerearth.com/problem/algorithm/john-and-the-ladder-of-odds-1/,Hackerearth
+So Random,so-random,...,"                    Probability, Math, Easy-Medium",https://www.hackerearth.com/problem/algorithm/so-random/,Hackerearth
+Find The Ring,find-the-ring,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/find-the-ring/,Hackerearth
+Pilgrims and Portals,pilgrims-and-portals,...,"                    Floyd Warshall, Dijkstra, Minimum Spanning Tree, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/pilgrims-and-portals/,Hackerearth
+Ashish and Binary Matrix,ashish-and-binary-matrix-1,...,"                    Math, Ad-Hoc, Easy-Medium",https://www.hackerearth.com/problem/algorithm/ashish-and-binary-matrix-1/,Hackerearth
+Googly sum,googly-sum-1,...,"                    Ad-Hoc, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/googly-sum-1/,Hackerearth
+NOBITA AND STRING,nobita-and-string-4,...,"                    Implementation, Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/nobita-and-string-4/,Hackerearth
+Karan and Trees,karan-and-trees,...,"                    Basic Programming, Easy",https://www.hackerearth.com/problem/algorithm/karan-and-trees/,Hackerearth
+Karan and Strings,karan-and-strings,...,"                    Basic Programming, Easy",https://www.hackerearth.com/problem/algorithm/karan-and-strings/,Hackerearth
+IOI 2050,ioi-2050-2,...,"                    Minimum Spanning Tree, DFS, Hard, BFS, Algorithms",https://www.hackerearth.com/problem/algorithm/ioi-2050-2/,Hackerearth
+Triangular Ranges,triangular-ranges-2,...,"                    Binary Search, Algorithms, Easy",https://www.hackerearth.com/problem/algorithm/triangular-ranges-2/,Hackerearth
+Connecting Boxes,connecting-boxes-1,...,"                    Algorithms, Easy",https://www.hackerearth.com/problem/algorithm/connecting-boxes-1/,Hackerearth
+Count Enemies,count-enemies-5,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/count-enemies-5/,Hackerearth
+Karan and Prime Numbers,karan-and-prime-numbers,...,"                    Basic Programming, Easy",https://www.hackerearth.com/problem/algorithm/karan-and-prime-numbers/,Hackerearth
+Noodle Jump,noodle-jump,...,"                    Basic Programming, Easy",https://www.hackerearth.com/problem/algorithm/noodle-jump/,Hackerearth
+Quantum and Divisibility ,quantum-and-divisibility-2,...,"                    Hard, Math, Prime Factorization",https://www.hackerearth.com/problem/algorithm/quantum-and-divisibility-2/,Hackerearth
+Nice Arches,nice-arches-1,...,"                    Ad-Hoc, Stack, Basic Programming, Hard",https://www.hackerearth.com/problem/algorithm/nice-arches-1/,Hackerearth
+Aniruddha's Queue,aniruddhas-queue-4,...,"                    Basic Programming, Hard",https://www.hackerearth.com/problem/algorithm/aniruddhas-queue-4/,Hackerearth
+Karan and his Sticker Col...,karan-and-his-sticker-collection,...,"                    Basic Programming, Easy",https://www.hackerearth.com/problem/algorithm/karan-and-his-sticker-collection/,Hackerearth
+Magic Fractions,magic-fractions,...,                    ,https://www.hackerearth.com/problem/algorithm/magic-fractions/,Hackerearth
+A New Order,a-new-order,...,                    ,https://www.hackerearth.com/problem/algorithm/a-new-order/,Hackerearth
+Packers N' Movers,packers-n-movers,...,                    ,https://www.hackerearth.com/problem/algorithm/packers-n-movers/,Hackerearth
+Robots and Energy,robots-and-energy-2,...,"                    Hard, Algorithms, Dynamic Programming, Matrix Exponentiation",https://www.hackerearth.com/problem/algorithm/robots-and-energy-2/,Hackerearth
+Building the wall,building-the-wall-2,...,"                    Dynamic Programming, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/building-the-wall-2/,Hackerearth
+Aaryan and the Magical Nu...,aaryan-and-the-magical-numbers-2,...,"                    Dynamic Programming, Hard, Math",https://www.hackerearth.com/problem/algorithm/aaryan-and-the-magical-numbers-2/,Hackerearth
+Mehta and the Tricky Trip...,mehta-and-the-tricky-triplets,...,"                    Dynamic Programming, Math, Bit manipulation, Medium",https://www.hackerearth.com/problem/algorithm/mehta-and-the-tricky-triplets/,Hackerearth
+Supertables,supertables-3,...,"                    Math, Binary Search, Medium",https://www.hackerearth.com/problem/algorithm/supertables-3/,Hackerearth
+Little Deepu vs. Little K...,little-deepu-vs-little-kuldeep,...,"                    Math, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/little-deepu-vs-little-kuldeep/,Hackerearth
+Little Fajlu and AOE 2.,little-fajlu-and-aoe-2,...,"                    Ad-Hoc, Hard, Basic Programming",https://www.hackerearth.com/problem/algorithm/little-fajlu-and-aoe-2/,Hackerearth
+Criminals: Little Deepu a...,criminals-little-deepu-and-little-kuldeep,...,"                    Hard, Sorting, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/criminals-little-deepu-and-little-kuldeep/,Hackerearth
+Repair Work,repair-work-1,...,"                    Dynamic Programming, Math, Hard",https://www.hackerearth.com/problem/algorithm/repair-work-1/,Hackerearth
+Big P and Party,big-p-and-party-1,...,"                    Graph Theory, BFS, Algorithms, Easy-Medium, Easy, Medium",https://www.hackerearth.com/problem/algorithm/big-p-and-party-1/,Hackerearth
+Subset XOR,subset-xor-4,...,"                    Easy, Basic Programming, Bit manipulation",https://www.hackerearth.com/problem/algorithm/subset-xor-4/,Hackerearth
+Will Rick survive or not,will-rick-survive-or-not-2,...,"                    Ad-Hoc, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/will-rick-survive-or-not-2/,Hackerearth
+DISTINCT DIGITS II,distinct-digits-ii-1,...,"                    Hard, Data Structures",https://www.hackerearth.com/problem/algorithm/distinct-digits-ii-1/,Hackerearth
+SUBSTRINGS COUNT,substrings-count-3,...,"                    Hashing, Binary Search, Medium, Data Structures, Algorithms",https://www.hackerearth.com/problem/algorithm/substrings-count-3/,Hackerearth
+Four Square,four-square-2,...,"                    Easy-Medium, Number Theory, Easy, Math",https://www.hackerearth.com/problem/algorithm/four-square-2/,Hackerearth
+Subset AND,subset-and-4,...,"                    Easy, Ad-Hoc, Basic Programming",https://www.hackerearth.com/problem/algorithm/subset-and-4/,Hackerearth
+Swap It,swap-it-2,...,"                    Greedy, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/swap-it-2/,Hackerearth
+Remove Friends,remove-friends-5,...,"                    Medium, Data Structures",https://www.hackerearth.com/problem/algorithm/remove-friends-5/,Hackerearth
+Girlfriend's Request,girfriends-request-1,...,"                    Heap, Memoization, Hard, Data Structures",https://www.hackerearth.com/problem/algorithm/girfriends-request-1/,Hackerearth
+Proving your intelligence...,proving-your-intelligence-to-your-girlfriend-1,...,"                    Minimum Spanning Tree, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/proving-your-intelligence-to-your-girlfriend-1/,Hackerearth
+Long walks from Office to...,long-walks-from-office-to-home-sweet-home-1,...,"                    Matrix Exponentiation, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/long-walks-from-office-to-home-sweet-home-1/,Hackerearth
+My girlfriend and her lov...,my-girlfriend-and-her-love-for-cats-1,...,"                    Sorting, Greedy, Hard, Basic Programming",https://www.hackerearth.com/problem/algorithm/my-girlfriend-and-her-love-for-cats-1/,Hackerearth
+GCD Game ,gcd-game-11,...,"                    Math, Dynamic Programming, Medium",https://www.hackerearth.com/problem/algorithm/gcd-game-11/,Hackerearth
+Set Selection,set-selection-1,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/set-selection-1/,Hackerearth
+IRCTC,irctc,...,"                    Basic Programming, Easy-Medium",https://www.hackerearth.com/problem/algorithm/irctc/,Hackerearth
+Substring,substring,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/substring/,Hackerearth
+Candy Distribution 2,candy-distribution-2,...,"                    Math, Combinatorics, Easy",https://www.hackerearth.com/problem/algorithm/candy-distribution-2/,Hackerearth
+SHIN-CHAN KAZAMA and XOR,shin-chan-kazama-and-xor-2,...,"                    Hard, Data Structures, Trie, Sqrt-Decomposition, Implementation",https://www.hackerearth.com/problem/algorithm/shin-chan-kazama-and-xor-2/,Hackerearth
+The best Internet Browser,the-best-internet-browser-3,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/,Hackerearth
+Sherlock and Dice,sherlock-and-dice,...,"                    Dynamic Programming, Probability, Implementation, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/sherlock-and-dice/,Hackerearth
+Sherlock and Magic,sherlock-and-magic,...,"                    Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/sherlock-and-magic/,Hackerearth
+Sherlock and XOR,sherlock-and-xor,...,"                    Math, Basic Programming, Easy",https://www.hackerearth.com/problem/algorithm/sherlock-and-xor/,Hackerearth
+Sherlock and Date,sherlock-and-date,...,"                    Easy, Implementation, Basic Programming",https://www.hackerearth.com/problem/algorithm/sherlock-and-date/,Hackerearth
+Litte Jhool and world tour,litte-jhool-and-world-tour-1,...,"                    Medium, Data Structures",https://www.hackerearth.com/problem/algorithm/litte-jhool-and-world-tour-1/,Hackerearth
+Little Jhool and Manchest...,little-jhool-and-manchester-united,...,"                    Bitmask, Dynamic Programming, Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/little-jhool-and-manchester-united/,Hackerearth
+Little Jhool and his primes,little-jhool-and-his-primes,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/little-jhool-and-his-primes/,Hackerearth
+Little Jhool and his puni...,little-jhool-and-his-punishment,...,"                    Easy, Greedy, Basic Programming",https://www.hackerearth.com/problem/algorithm/little-jhool-and-his-punishment/,Hackerearth
+"Rotate, rotate again and ...",rotate-rotate-again-and-rotate-once-more-4,...,"                    Simulation, Data Structures, Medium-Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/rotate-rotate-again-and-rotate-once-more-4/,Hackerearth
+Smart travel agent,smart-travel-agent,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/smart-travel-agent/,Hackerearth
+Strategic Warehouse place...,strategic-warehouse-placements,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/strategic-warehouse-placements/,Hackerearth
+Jungle Run,jungle-run,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/jungle-run/,Hackerearth
+KING'S RACE,kings-race-8,...,"                    Easy, Sorting, Algorithms",https://www.hackerearth.com/problem/algorithm/kings-race-8/,Hackerearth
+SNAPSHOT,snapshot-2,...,"                    Medium, Easy-Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/snapshot-2/,Hackerearth
+Big P and The Road Less T...,big-p-and-the-road-less-travelled-1,...,"                    Dynamic Programming, Algorithms, Easy-Medium",https://www.hackerearth.com/problem/algorithm/big-p-and-the-road-less-travelled-1/,Hackerearth
+Promotion,promotion-1,...,"                    Binary Search, Easy, Ad-Hoc, Data Structures",https://www.hackerearth.com/problem/algorithm/promotion-1/,Hackerearth
+BLACKBOX-1,blackbox-1-3,...,"                    Math, Easy",https://www.hackerearth.com/problem/algorithm/blackbox-1-3/,Hackerearth
+Roy and Little Mario,roy-and-little-mario-4,...,"                    Combinatorics, Ad-Hoc, Dynamic Programming, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/roy-and-little-mario-4/,Hackerearth
+Roy and Ring,roy-and-ring-13,...,"                    Matrix Exponentiation, Ad-Hoc, Math, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/roy-and-ring-13/,Hackerearth
+Pythagorean Triplets,pythagorean-triplets-15,...,"                    Math, Medium",https://www.hackerearth.com/problem/algorithm/pythagorean-triplets-15/,Hackerearth
+New Contest,new-contest-7,...,"                    Probability, Math, Dynamic Programming, Combinatorics, Easy, Easy-Medium",https://www.hackerearth.com/problem/algorithm/new-contest-7/,Hackerearth
+The Suffix Matches,the-suffix-matches-4,...,"                    Medium-Hard, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/the-suffix-matches-4/,Hackerearth
+Interesting Coins,interesting-coins-5,...,"                    Binary Search, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/interesting-coins-5/,Hackerearth
+Exam Time,exam-time-2,...,"                    Math, Easy",https://www.hackerearth.com/problem/algorithm/exam-time-2/,Hackerearth
+Last Forever,last-forever,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/last-forever/,Hackerearth
+Aldrin Justice,aldrin-justice,...,"                    Easy, Geometry, Math",https://www.hackerearth.com/problem/algorithm/aldrin-justice/,Hackerearth
+Pro and Con List,pro-and-con-list,...,"                    Medium, Data Structures",https://www.hackerearth.com/problem/algorithm/pro-and-con-list/,Hackerearth
+Haaaave you met Ted!?,haaaave-you-met-ted,...,"                    Easy, Bit manipulation, Algorithms",https://www.hackerearth.com/problem/algorithm/haaaave-you-met-ted/,Hackerearth
+Roy and Birthday,roy-and-birthday,...,"                    Easy, Implementation, Combinatorics, Math",https://www.hackerearth.com/problem/algorithm/roy-and-birthday/,Hackerearth
+Roy and Code Streak,roy-and-code-streak,...,"                    Dynamic Programming, Implementation, Hashing, Medium, Algorithms, Data Structures",https://www.hackerearth.com/problem/algorithm/roy-and-code-streak/,Hackerearth
+Roy and Cipher Disk,roy-and-cipher-disk,...,"                    Implementation, Ad-Hoc, Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/roy-and-cipher-disk/,Hackerearth
+Roy and Profile Picture,roy-and-profile-picture,...,"                    Easy, Ad-Hoc, Implementation, Basic Programming",https://www.hackerearth.com/problem/algorithm/roy-and-profile-picture/,Hackerearth
+Choosing the Judges,choosing-the-judges-7,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/choosing-the-judges-7/,Hackerearth
+SOFTSORT,softsort-7,...,"                    Easy, Basic Programming, Math",https://www.hackerearth.com/problem/algorithm/softsort-7/,Hackerearth
+Winter is coming,winter-is-coming-12,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/winter-is-coming-12/,Hackerearth
+Beautiful Strings,beautiful-strings-10,...,"                    Ad-Hoc, Sorting, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/beautiful-strings-10/,Hackerearth
+Ankit and Race Team,ankit-and-race-team-10,...,"                    Combinatorics, Medium, Math",https://www.hackerearth.com/problem/algorithm/ankit-and-race-team-10/,Hackerearth
+Longest Increasing Path,longest-increasing-path-9,...,"                    Dynamic Programming, Easy-Medium, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/longest-increasing-path-9/,Hackerearth
+Geeko and tree,geeko-and-tree-2,...,"                    Math, Easy-Medium, Easy",https://www.hackerearth.com/problem/algorithm/geeko-and-tree-2/,Hackerearth
+Little Kuldeep and contests.,little-kuldeep-and-contests,...,"                    Ad-Hoc, Implementation, Basic Programming, Easy",https://www.hackerearth.com/problem/algorithm/little-kuldeep-and-contests/,Hackerearth
+Abed and timelines.,abed-and-timelines,...,"                    Easy, Math, Simple-math",https://www.hackerearth.com/problem/algorithm/abed-and-timelines/,Hackerearth
+Little Deepak and Game of...,little-deepak-and-game-of-thrones,...,"                    Medium, Math, Line-sweep, Geometry",https://www.hackerearth.com/problem/algorithm/little-deepak-and-game-of-thrones/,Hackerearth
+The final confusion.,the-final-confusion,...,"                    Medium, Math",https://www.hackerearth.com/problem/algorithm/the-final-confusion/,Hackerearth
+Chandu and chandni's secr...,chandu-and-chandnis-secret-chat,...,"                    Ad-Hoc, Sorting, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/chandu-and-chandnis-secret-chat/,Hackerearth
+Chandu and chandni ! ,chandu-and-chandni,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/chandu-and-chandni/,Hackerearth
+Weird Function,weird-function,...,"                    Number Theory, Medium, Math",https://www.hackerearth.com/problem/algorithm/weird-function/,Hackerearth
+Find mode,find-mode,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/find-mode/,Hackerearth
+In love with primes,in-love-with-primes,...,"                    Math, Simple-math, Easy",https://www.hackerearth.com/problem/algorithm/in-love-with-primes/,Hackerearth
+Game Of Strengths,game-of-strengths-4,...,"                    Math, Easy, Sorting",https://www.hackerearth.com/problem/algorithm/game-of-strengths-4/,Hackerearth
+Comrades - I,comrades-i-3,...,"                    Algorithms, Easy-Medium, DFS, Medium",https://www.hackerearth.com/problem/algorithm/comrades-i-3/,Hackerearth
+The Battle,the-battle-17,...,"                    Medium, Math",https://www.hackerearth.com/problem/algorithm/the-battle-17/,Hackerearth
+Khaolin Temple,khaolin-temple-1,...,                    ,https://www.hackerearth.com/problem/algorithm/khaolin-temple-1/,Hackerearth
+Breakup App,breakup-app,...,                    ,https://www.hackerearth.com/problem/algorithm/breakup-app/,Hackerearth
+Rest in peace - 21-1!,rest-in-peace-21-1,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/rest-in-peace-21-1/,Hackerearth
+FOO AND EXAMS,foo-and-exams-4,...,"                    Easy, Implementation, Data Structures",https://www.hackerearth.com/problem/algorithm/foo-and-exams-4/,Hackerearth
+Magical Words,magical-words-4,...,"                    Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/magical-words-4/,Hackerearth
+Bob's Journey,bobs-journey-5,...,"                    Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/bobs-journey-5/,Hackerearth
+Mind Palaces,mind-palaces-3,...,"                    Algorithms, Ad-Hoc, Easy",https://www.hackerearth.com/problem/algorithm/mind-palaces-3/,Hackerearth
+Comrades - II,comrades-ii-6,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/comrades-ii-6/,Hackerearth
+Game of Numbers,game-of-numbers-7,...,"                    Math, Number Theory, Medium",https://www.hackerearth.com/problem/algorithm/game-of-numbers-7/,Hackerearth
+Make Paths,make-paths-3,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/make-paths-3/,Hackerearth
+Swapping Game,swapping-game-6,...,"                    Medium, Ad-Hoc, Data Structures",https://www.hackerearth.com/problem/algorithm/swapping-game-6/,Hackerearth
+Palindromic Numbers,palindromic-numbers-7,...,"                    Ad-Hoc, Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/palindromic-numbers-7/,Hackerearth
+Permutation,permutations,...,                    ,https://www.hackerearth.com/problem/algorithm/permutations/,Hackerearth
+Tablets,tablets,...,                    ,https://www.hackerearth.com/problem/algorithm/tablets/,Hackerearth
+Dice Rolls,dice-rolls,...,                    ,https://www.hackerearth.com/problem/algorithm/dice-rolls/,Hackerearth
+Pankaj and his in-laws!,pankaj-and-his-in-laws,...,"                    Dynamic Programming, Easy-Medium, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/pankaj-and-his-in-laws/,Hackerearth
+Little Jhool and the magi...,little-jhool-and-the-magical-jewels,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/little-jhool-and-the-magical-jewels/,Hackerearth
+Studious Little Jhool!,studious-little-jhool,...,"                    Easy, Brute Force, Data Structures",https://www.hackerearth.com/problem/algorithm/studious-little-jhool/,Hackerearth
+The Strongest String - 1,the-strongest-string-1-1,...,"                    Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/the-strongest-string-1-1/,Hackerearth
+Climbing Stairs,climbing-stairs-1,...,"                    Easy, Ad-Hoc, Data Structures",https://www.hackerearth.com/problem/algorithm/climbing-stairs-1/,Hackerearth
+Bino-Sum,bino-sum-1,...,"                    Math, Easy",https://www.hackerearth.com/problem/algorithm/bino-sum-1/,Hackerearth
+Raghu Vs Sayan,raghu-vs-sayan,...,"                    Easy, Sorting, Data Structures",https://www.hackerearth.com/problem/algorithm/raghu-vs-sayan/,Hackerearth
+Factorial Again,factorial-again-1,...,"                    Medium, Number Theory, Math",https://www.hackerearth.com/problem/algorithm/factorial-again-1/,Hackerearth
+Little Deepu and his Girl...,little-deepu-and-his-girlfriend-2,...,"                    Medium, Game Theory, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/little-deepu-and-his-girlfriend-2/,Hackerearth
+Once upon a time in Time-...,once-upon-a-time-in-time-land,...,"                    Dynamic Programming, Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/once-upon-a-time-in-time-land/,Hackerearth
+Little bear and strings,little-bear-and-strings,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/little-bear-and-strings/,Hackerearth
+A Needle in the Haystack,a-needle-in-the-haystack-1,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/a-needle-in-the-haystack-1/,Hackerearth
+Gotta catch 'em all!,gotta-catch-em-all,...,"                    Easy, Sorting, Data Structures",https://www.hackerearth.com/problem/algorithm/gotta-catch-em-all/,Hackerearth
+Mirror of Mahatma Gandhi,mirror-of-mahatma-gandhi,...,"                    Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/mirror-of-mahatma-gandhi/,Hackerearth
+Gandhi Tree March,gandhi-tree-march,...,"                    Hard, Trees, Algorithms",https://www.hackerearth.com/problem/algorithm/gandhi-tree-march/,Hackerearth
+Magic Sum,magic-sum,...,"                    Medium, Trees, Algorithms",https://www.hackerearth.com/problem/algorithm/magic-sum/,Hackerearth
+Don't Jump,dont-jump,...,"                    Medium, Ad-Hoc, Algorithms",https://www.hackerearth.com/problem/algorithm/dont-jump/,Hackerearth
+Takeshi's Castle,takeshis-castle-4,...,"                    Medium, Math, Probability",https://www.hackerearth.com/problem/algorithm/takeshis-castle-4/,Hackerearth
+Password,password-1,...,"                    Easy, Data Structures, Brute Force",https://www.hackerearth.com/problem/algorithm/password-1/,Hackerearth
+The Witches of HEgwarts!,the-witches-of-hegwarts-1,...,"                    Graph Theory, Medium, Algorithms, Recursion",https://www.hackerearth.com/problem/algorithm/the-witches-of-hegwarts-1/,Hackerearth
+Angles,angles-2,...,"                    Dynamic Programming, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/angles-2/,Hackerearth
+Little Jhool - the Devdas,little-jhool-the-devdas,...,"                    Easy-Medium, Math, Easy",https://www.hackerearth.com/problem/algorithm/little-jhool-the-devdas/,Hackerearth
+Little Jhool and his breakup,little-jhool-and-his-breakup,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/little-jhool-and-his-breakup/,Hackerearth
+Little Jhool and psychic ...,psychic-powers,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/psychic-powers/,Hackerearth
+Binomial Coefficient,binomial-coefficient-1,...,"                    Combinatorics, Math, Medium",https://www.hackerearth.com/problem/algorithm/binomial-coefficient-1/,Hackerearth
+Lucky Time,lucky-time,...,"                    Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/lucky-time/,Hackerearth
+Lottery Tickets,lottery-tickets-1,...,"                    Medium, Dynamic Programming, Algorithms",https://www.hackerearth.com/problem/algorithm/lottery-tickets-1/,Hackerearth
+Roy and Hamming Distance,roy-and-hamming-distance,...,"                    Math, Combinatorics, Ad-Hoc, Medium",https://www.hackerearth.com/problem/algorithm/roy-and-hamming-distance/,Hackerearth
+Roy and Coding Contest,roy-and-coding-contest,...,"                    Implementation, Math, Easy, Ad-Hoc",https://www.hackerearth.com/problem/algorithm/roy-and-coding-contest/,Hackerearth
+The Ghost Open!,the-ghost-open,...,"                    Ad-Hoc, Easy, Math",https://www.hackerearth.com/problem/algorithm/the-ghost-open/,Hackerearth
+Roy and Trains,roy-and-trains-2,...,"                    Implementation, Math, Easy",https://www.hackerearth.com/problem/algorithm/roy-and-trains-2/,Hackerearth
+chandu and probability,chandu-and-probability,...,"                    Probability, Math, Medium",https://www.hackerearth.com/problem/algorithm/chandu-and-probability/,Hackerearth
+Chandu and his game,chandu-and-his-game,...,"                    Ad-Hoc, Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/chandu-and-his-game/,Hackerearth
+Chandu and his toy stack,chandu-and-his-toy-stack,...,"                    Greedy, Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/chandu-and-his-toy-stack/,Hackerearth
+Chandu and his playing area,chandu-and-his-playing-area,...,"                    Ad-Hoc, Easy, Math",https://www.hackerearth.com/problem/algorithm/chandu-and-his-playing-area/,Hackerearth
+Power Set Game,power-set-game-3,...,"                    Hard, Math, Number Theory",https://www.hackerearth.com/problem/algorithm/power-set-game-3/,Hackerearth
+Cost of Data,cost-of-data-11,...,"                    Trie, Medium, Sorting, Algorithms, Data Structures",https://www.hackerearth.com/problem/algorithm/cost-of-data-11/,Hackerearth
+Who Wants to Be a Million...,who-wants-to-be-a-millionaire-7,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/who-wants-to-be-a-millionaire-7/,Hackerearth
+Akash's Girlfriend,akashs-girlfriend,...,"                    Medium, Combinatorics, Math, Algorithms",https://www.hackerearth.com/problem/algorithm/akashs-girlfriend/,Hackerearth
+Double Factorial,double-factorial-1,...,"                    Easy, Ad-Hoc, Math",https://www.hackerearth.com/problem/algorithm/double-factorial-1/,Hackerearth
+Game of Coins,game-of-coins,...,"                    Game Theory, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/game-of-coins/,Hackerearth
+Chang and the Mathematica...,chang-and-the-mathematical-brainbuster-4,...,"                    Medium, Math",https://www.hackerearth.com/problem/algorithm/chang-and-the-mathematical-brainbuster-4/,Hackerearth
+Code Hunt,code-hunt,...,"                    Easy-Medium, Number Theory, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/code-hunt/,Hackerearth
+Old keypad in a foreign land,old-keypad-in-a-foreign-land-24,...,"                    Medium, Algorithms, Data Structures, Sorting",https://www.hackerearth.com/problem/algorithm/old-keypad-in-a-foreign-land-24/,Hackerearth
+Cricket Rating,cricket-rating-30,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/cricket-rating-30/,Hackerearth
+Final voyage,final-voyage-1,...,"                    Dynamic Programming, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/final-voyage-1/,Hackerearth
+Game of Bots,game-of-bots,...,"                    Math, Medium",https://www.hackerearth.com/problem/algorithm/game-of-bots/,Hackerearth
+Help Rachit,help-rachit-2,...,"                    Number Theory, Algorithms, Math, Medium",https://www.hackerearth.com/problem/algorithm/help-rachit-2/,Hackerearth
+Wifi Routers,wifi-routers,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/wifi-routers/,Hackerearth
+Compiler Version,compiler-version-2,...,"                    Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/compiler-version-2/,Hackerearth
+Sherlock holmes and The t...,sherlock-holmes-and-the-temple-mystery-7,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/sherlock-holmes-and-the-temple-mystery-7/,Hackerearth
+Mixing Strings,mixing-strings-1,...,"                    Easy, Brute Force, Implementation, Data Structures, Algorithms",https://www.hackerearth.com/problem/algorithm/mixing-strings-1/,Hackerearth
+Counting Triangles,counting-triangles,...,"                    Easy, Data Structures",https://www.hackerearth.com/problem/algorithm/counting-triangles/,Hackerearth
+Matrix Symmetry,matrix-symmetry,...,"                    Easy, Data Structures, Ad-Hoc",https://www.hackerearth.com/problem/algorithm/matrix-symmetry/,Hackerearth
+Special Matrix,special-matrix-1,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/special-matrix-1/,Hackerearth
+The Battle of Panipat,the-battle-of-panipat-4,...,"                    Hard, Algorithms",https://www.hackerearth.com/problem/algorithm/the-battle-of-panipat-4/,Hackerearth
+ Little Stuart and Evil H...,little-stuart-and-evil-hackers-2,...,"                    Medium, Math",https://www.hackerearth.com/problem/algorithm/little-stuart-and-evil-hackers-2/,Hackerearth
+Longest Common Subsequence,longest-common-subsequence-2,...,"                    Math, Hard",https://www.hackerearth.com/problem/algorithm/longest-common-subsequence-2/,Hackerearth
+Prison Break,prison-break-5,...,"                    Easy, DFS, Recursion, Algorithms",https://www.hackerearth.com/problem/algorithm/prison-break-5/,Hackerearth
+Speed,speed-7,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/speed-7/,Hackerearth
+Lucky String Jackpot,lucky-string-jackpot-1,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/lucky-string-jackpot-1/,Hackerearth
+Missing Alphabets,missing-alphabets-1,...,"                    Medium, Algorithms, Data Structures",https://www.hackerearth.com/problem/algorithm/missing-alphabets-1/,Hackerearth
+Lucky String,lucky-string-1,...,"                    Medium, Math, Medium",https://www.hackerearth.com/problem/algorithm/lucky-string-1/,Hackerearth
+Tour,tour,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/tour/,Hackerearth
+One-Way Street,one-way-street,...,"                    Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/one-way-street/,Hackerearth
+Battle of Stalingrad,battle-of-stalingrad-1,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/battle-of-stalingrad-1/,Hackerearth
+Special Sum,special-sum-3,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/special-sum-3/,Hackerearth
+Roy and LEDs,roy-and-leds-6,...,"                    Math, Medium",https://www.hackerearth.com/problem/algorithm/roy-and-leds-6/,Hackerearth
+Sum of Digits,sum-of-digits-8,...,"                    Dynamic Programming, Hard, Math, Algorithms",https://www.hackerearth.com/problem/algorithm/sum-of-digits-8/,Hackerearth
+Indent Ruby,indent-ruby-1,...,                    ,https://www.hackerearth.com/problem/algorithm/indent-ruby-1/,Hackerearth
+Coins,coins-11,...,"                    Easy, Math",https://www.hackerearth.com/problem/algorithm/coins-11/,Hackerearth
+A simple To Do list,a-simple-to-do-list-1,...,                    ,https://www.hackerearth.com/problem/frontend/a-simple-to-do-list-1/,Hackerearth
+Chocolates & Boxes,chocolates-boxes-1,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/chocolates-boxes-1/,Hackerearth
+Save Girlfriend,save-girlfriend,...,"                    Medium, Math, Number Theory",https://www.hackerearth.com/problem/algorithm/save-girlfriend/,Hackerearth
+Flip the World,flip-the-world,...,"                    Greedy, Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/flip-the-world/,Hackerearth
+Complete String,complete-string-4,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/complete-string-4/,Hackerearth
+Sum of powers,sum-of-powers-6,...,"                    Medium, Math",https://www.hackerearth.com/problem/algorithm/sum-of-powers-6/,Hackerearth
+Gold Mines,gold-mines-10,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/gold-mines-10/,Hackerearth
+Roy and Rangoli,roy-and-rangoli-1,...,"                    Implementation, Math, Medium",https://www.hackerearth.com/problem/algorithm/roy-and-rangoli-1/,Hackerearth
+Research on Numbers,research-on-numbers-1,...,"                    Medium, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/research-on-numbers-1/,Hackerearth
+Sum of numbers,sum-of-numbers-9,...,"                    Math, Easy",https://www.hackerearth.com/problem/algorithm/sum-of-numbers-9/,Hackerearth
+Roy and Sweets,roy-and-sweets,...,"                    Dynamic Programming, Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/roy-and-sweets/,Hackerearth
+Palindrome count,palindrome-count-1,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/palindrome-count-1/,Hackerearth
+Possible sums,possible-sums-5,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/possible-sums-5/,Hackerearth
+Recursive Function,recursive-function,...,                    ,https://www.hackerearth.com/problem/algorithm/recursive-function/,Hackerearth
+Ideal Random Number Gener...,ideal-random-number-generator,...,                    ,https://www.hackerearth.com/problem/algorithm/ideal-random-number-generator/,Hackerearth
+Save Patients,save-patients,...,                    ,https://www.hackerearth.com/problem/algorithm/save-patients/,Hackerearth
+Smallest Positive Integer,smallest-positive-integer,...,                    ,https://www.hackerearth.com/problem/algorithm/smallest-positive-integer/,Hackerearth
+Trailing Zeros,trailing-zeros,...,                    ,https://www.hackerearth.com/problem/algorithm/trailing-zeros/,Hackerearth
+Candy Game,candy-game,...,"                    Graph Theory, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/candy-game/,Hackerearth
+Kira's Special Sequences,kiras-special-sequences-1,...,"                    Dynamic Programming, Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/kiras-special-sequences-1/,Hackerearth
+Power Failure,power-failure,...,"                    Easy, Algorithms",https://www.hackerearth.com/problem/algorithm/power-failure/,Hackerearth
+Terminators,terminators,...,"                    Medium, Algorithms",https://www.hackerearth.com/problem/algorithm/terminators/,Hackerearth
+Visiting Islands,visiting-islands,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/visiting-islands/,Hackerearth
+Find the substrings,find-the-substrings,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/find-the-substrings/,Hackerearth
+Finding numbers,finding-numbers,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/finding-numbers/,Hackerearth
+Finding pairs,finding-pairs-4,...,"                    Algorithms, Sorting, Medium",https://www.hackerearth.com/problem/algorithm/finding-pairs-4/,Hackerearth
+Game of survival,game-of-survival,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/game-of-survival/,Hackerearth
+Painting the road,painting-the-road,...,"                    Algorithms, Medium",https://www.hackerearth.com/problem/algorithm/painting-the-road/,Hackerearth
+Counting strings,counting-strings,...,"                    Algorithms, Easy",https://www.hackerearth.com/problem/algorithm/counting-strings/,Hackerearth
+Number game,number-game,...,"                    Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/number-game/,Hackerearth
+Maximum score,maximum-score,...,"                    Algorithms, Hard",https://www.hackerearth.com/problem/algorithm/maximum-score/,Hackerearth
+Fizz Buzz Test,fizzbuzz,...,                    Easy,https://www.hackerearth.com/problem/algorithm/fizzbuzz/,Hackerearth
+Skipping Stones,skipping-stones,...,                    ,https://www.hackerearth.com/problem/algorithm/skipping-stones/,Hackerearth
+Lowest Common Ancestor,lowest-common-ancestor,...,                    DFS,https://www.hackerearth.com/problem/algorithm/lowest-common-ancestor/,Hackerearth
+Project Team,project-team,...,                    Dynamic Programming,https://www.hackerearth.com/problem/algorithm/project-team/,Hackerearth
+Find Me Roots,roots,...,                    ,https://www.hackerearth.com/problem/algorithm/roots/,Hackerearth
+Matrix Problem,matrix-problem,...,                    Algorithms,https://www.hackerearth.com/problem/algorithm/matrix-problem/,Hackerearth
+Magnificent Fountains,magnificent-fountains,...,                    ,https://www.hackerearth.com/problem/algorithm/magnificent-fountains/,Hackerearth
+Birthday Party,birthday-party,...,"                    Number Theory, Hard",https://www.hackerearth.com/problem/algorithm/birthday-party/,Hackerearth
+Buckbeak Escape,buckbeak-escape,...,                    ,https://www.hackerearth.com/problem/algorithm/buckbeak-escape/,Hackerearth
+Digital Numbers,digital-numbers,...,"                    Math, Dynamic Programming",https://www.hackerearth.com/problem/algorithm/digital-numbers/,Hackerearth
+Decimal Help,decimal-help,...,                    ,https://www.hackerearth.com/problem/algorithm/decimal-help/,Hackerearth
+Tic Tac Toe,tic-tac-toe,...,                    ,https://www.hackerearth.com/problem/multiplayer/tic-tac-toe/,Hackerearth
+"Life, the Universe, and E...",life-the-universe-and-everything,...,                    ,https://www.hackerearth.com/problem/algorithm/life-the-universe-and-everything/,Hackerearth
+Hex Game,hex,...,                    ,https://www.hackerearth.com/problem/multiplayer/hex/,Hackerearth
+Divide Apples,divide-apples,...,                    ,https://www.hackerearth.com/problem/algorithm/divide-apples/,Hackerearth
+Modify Sequence,modify-sequence,...,                    ,https://www.hackerearth.com/problem/algorithm/modify-sequence/,Hackerearth
+Crazy Matrix,crazy-matrix,...,                    ,https://www.hackerearth.com/problem/algorithm/crazy-matrix/,Hackerearth
+Image Fetcher,image-fetcher,...,                    ,https://www.hackerearth.com/problem/frontend/image-fetcher/,Hackerearth
+Radiator Springs,radiator-springs,...,                    ,https://www.hackerearth.com/problem/algorithm/radiator-springs/,Hackerearth
+Tom & Jerry,tom-jerry,...,                    ,https://www.hackerearth.com/problem/algorithm/tom-jerry/,Hackerearth
+The cheapest palindrome,make-the-cheapest-palindrome-1,...,                    ,https://www.hackerearth.com/problem/algorithm/make-the-cheapest-palindrome-1/,Hackerearth
+Teaching how to draw,how-many-buildings-you-can-make-1,...,                    Math,https://www.hackerearth.com/problem/algorithm/how-many-buildings-you-can-make-1/,Hackerearth
+The colorful street,the-colorful-street-1,...,                    ,https://www.hackerearth.com/problem/algorithm/the-colorful-street-1/,Hackerearth
+Search for the Artist,search-for-the-artist,...,                    ,https://www.hackerearth.com/problem/frontend/search-for-the-artist/,Hackerearth
+What is the string made of?,what-is-the-string-made-of-2,...,"                    Easy, Basic Programming",https://www.hackerearth.com/problem/algorithm/what-is-the-string-made-of-2/,Hackerearth
+Survey Analysis,survey-analysis,...,                    Math,https://www.hackerearth.com/problem/algorithm/survey-analysis/,Hackerearth
+Capture Castle,capture-castle,...,                    Dynamic Programming,https://www.hackerearth.com/problem/algorithm/capture-castle/,Hackerearth
+Survival Strategy,who-will-survive-in-the-end,...,                    Number Theory,https://www.hackerearth.com/problem/algorithm/who-will-survive-in-the-end/,Hackerearth
+File Statistics,file-statistics,...,                    ,https://www.hackerearth.com/problem/algorithm/file-statistics/,Hackerearth
+Strange addition,the-reversed-numbers,...,                    ,https://www.hackerearth.com/problem/algorithm/the-reversed-numbers/,Hackerearth
+Inverse List,inverse-list,...,                    ,https://www.hackerearth.com/problem/algorithm/inverse-list/,Hackerearth
+Task Cards Dashboard,task-cards-dashboard,...,                    ,https://www.hackerearth.com/problem/frontend/task-cards-dashboard/,Hackerearth
+Beautiful Sequence,beautiful-sequence,...,                    ,https://www.hackerearth.com/problem/algorithm/beautiful-sequence/,Hackerearth
+Bytelandian Gold Coins,bytelandian-gold-coins,...,                    ,https://www.hackerearth.com/problem/algorithm/bytelandian-gold-coins/,Hackerearth
+Lucky Number,lucky-number,...,                    ,https://www.hackerearth.com/problem/algorithm/lucky-number/,Hackerearth
+Small Factorials,small-factorials,...,                    ,https://www.hackerearth.com/problem/algorithm/small-factorials/,Hackerearth

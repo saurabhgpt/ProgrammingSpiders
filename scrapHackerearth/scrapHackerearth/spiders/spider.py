@@ -23,12 +23,17 @@ class scrapHackerearthSpider(scrapy.Spider) :
 			writer.writerow(headers)
 			for sel in response.xpath(".//*[@id='row']") :
 				if(len(str(sel.xpath('td[2]/a/span/text()').extract())) > 2) :
-					name = str(sel.xpath('td[2]/a/span/text()').extract())[3:-2].replace("\\", "")
+					name = sel.xpath('td[2]/a/span/text()').extract()[0]
 					slug = str(sel.xpath('td[2]/a/@href').extract()[0]).split("/")[::-1][1]
-					submissions = str(sel.xpath('td[3]/span/text()').extract()[0])
+					submissions = sel.xpath('td[3]/span/text()').extract()[0]
 					tags = str(sel.xpath('td[5]/text()').extract()[0]).split("\n")[1]
 					questionURL = "https://www.hackerearth.com" + str(sel.xpath('td[2]/a/@href').extract()[0])
+					name = name.encode('utf8')
+					slug = slug.encode('utf8')
+					submissions = submissions.encode('utf8')
+					tags = tags.encode('utf8')
+					questionURL = questionURL.encode('utf8')
 					questionDetailObject = [name, slug, submissions, tags, questionURL, platform]
-					writer.writerow(questionDetailObject)
+					writer.writerow(questionDetailObject.encode('utf8') if type(questionDetailObject) is unicode else questionDetailObject)
 		f.close()
 		browser.quit()
