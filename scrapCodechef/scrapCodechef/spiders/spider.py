@@ -19,7 +19,7 @@ class scrapCodechefSpider(scrapy.Spider) :
 	def parse(self, response) :
 		time.sleep(15)
 		platform = "Codechef"
-		with open("/home/lethal/PYTHON/PythonEnv/venv/git/ProgrammingSpiders/scrapCodechef/scrapCodechef/Data/scrapCodechef.csv","ab+") as f:
+		with open("../Data/scrapCodechef.csv","ab+") as f:
 			writer = csv.writer(f)
 			headers = ["Name", "Slug", "Submissions", "Accuracy", "QuestionURL", "Platform", "Tags", "LanguagesAllowed", "DateAdded"]
 			writer.writerow(headers)
