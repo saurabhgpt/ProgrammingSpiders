@@ -1,7 +1,5 @@
 import scrapy
 from scrapCodechef.items import ScrapcodechefItem
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 import time
 import csv
 
@@ -19,8 +17,6 @@ class scrapCodechefSpider(scrapy.Spider) :
 
 
 	def parse(self, response) :
-		browser = webdriver.Firefox()
-		browser.get(response.url)
 		time.sleep(15)
 		platform = "Codechef"
 		with open("/home/lethal/PYTHON/PythonEnv/venv/git/ProgrammingSpiders/scrapCodechef/scrapCodechef/Data/scrapCodechef.csv","ab+") as f:
@@ -43,8 +39,5 @@ class scrapCodechefSpider(scrapy.Spider) :
 					languagesAllowed = ""
 					dateAdded = ""
 					questionDetailObject = [name, slug, submissions, accuracy, questionURL, platform, tags, languagesAllowed, dateAdded]
-					print "HELLO HERE............................"
-					print questionDetailObject
 					writer.writerow(questionDetailObject.encode('utf8') if type(questionDetailObject) is unicode else questionDetailObject)
-		browser.quit()
 		f.close()
